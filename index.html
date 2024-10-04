@@ -1,0 +1,42 @@
+<!doctype html>
+<html class="no-js" lang="it">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Dipendenze -->
+    <script src="https://cdn.jsdelivr.net/npm/preact@10.23.2/dist/preact.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/preact@10.23.2/hooks/dist/hooks.umd.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@preact/signals-core@1.8.0/dist/signals-core.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@preact/signals@1.3.0/dist/signals.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/preact@10.23.2/jsx-runtime/dist/jsxRuntime.umd.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/preact@10.23.2/compat/dist/compat.umd.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/@schedule-x/calendar@2.3.0/dist/core.umd.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@schedule-x/drag-and-drop@2.3.0/dist/core.umd.js"></script>
+    <script src="  https://cdn.jsdelivr.net/npm/@schedule-x/resize@2.3.0/dist/core.umd.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@schedule-x/theme-default@2.3.0/dist/index.css">
+
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div class="app-container">
+        <div class="sidebar">
+            <h2>timetable-opt-poc</h2>
+        </div>
+        <div class="calendar-container">
+            <div class="calendar"></div>
+        </div>
+    </div>
+
+    <script type="module" src="js/calendar-config.js"></script>
+    <script src="js/sidebar.js"></script>
+</body>
+
+</html>
