@@ -1,3 +1,220 @@
+Project Path: timetable-opt-poc-ui
+
+Source Tree:
+
+```
+timetable-opt-poc-ui
+├── index.html
+├── js
+│   ├── calendar-config_NO_EXTERNAL_DATA.js
+│   ├── sidebar.js
+│   └── calendar-config.js
+├── c2p.txt
+├── README.md
+├── styles
+│   └── style.css
+└── data
+    └── events.json
+
+```
+
+`/Users/lorenzotarcinale/repo/timetable-opt-poc-ui/index.html`:
+
+```html
+<!doctype html>
+<html class="no-js" lang="it">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Dipendenze -->
+    <script src="https://cdn.jsdelivr.net/npm/preact@10.23.2/dist/preact.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/preact@10.23.2/hooks/dist/hooks.umd.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@preact/signals-core@1.8.0/dist/signals-core.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@preact/signals@1.3.0/dist/signals.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/preact@10.23.2/jsx-runtime/dist/jsxRuntime.umd.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/preact@10.23.2/compat/dist/compat.umd.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/@schedule-x/calendar@2.3.0/dist/core.umd.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@schedule-x/drag-and-drop@2.3.0/dist/core.umd.js"></script>
+    <script src="  https://cdn.jsdelivr.net/npm/@schedule-x/resize@2.3.0/dist/core.umd.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@schedule-x/theme-default@2.3.0/dist/index.css">
+
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div class="app-container">
+        <div class="sidebar">
+            <h2>timetable-opt-poc</h2>
+        </div>
+        <div class="calendar-container">
+            <div class="calendar"></div>
+        </div>
+    </div>
+
+    <script type="module" src="js/calendar-config.js"></script>
+    <script src="js/sidebar.js"></script>
+</body>
+
+</html>
+```
+
+`/Users/lorenzotarcinale/repo/timetable-opt-poc-ui/js/calendar-config_NO_EXTERNAL_DATA.js`:
+
+```js
+const { createCalendar, viewWeek } = window.SXCalendar;
+const { createDragAndDropPlugin } = window.SXDragAndDrop;
+const { createResizePlugin } = window.SXResize
+
+const config = {
+    locale: 'it-IT',
+
+    firstDayOfWeek: 1,
+
+    isDark: false,
+
+    dayBoundaries: {
+        start: '07:00',
+        end: '19:00',
+    },
+
+    views: [viewWeek],
+
+    weekOptions: {
+        /**
+        * The total height in px of the week grid (week- and day views)
+        * */
+        gridHeight: 570,
+
+        /**
+        * Intl.DateTimeFormatOptions used to format the hour labels on the time axis
+        * Default: { hour: 'numeric' }
+        */
+        timeAxisFormatOptions: { hour: '2-digit', minute: '2-digit' },
+    },
+
+    events: [
+        {
+            id: '1',
+            title: 'Migliorare front-end',
+            location: 'Online',
+            people: ['Lorenzo', 'Emanuele'],
+            start: '2024-10-03 09:00',
+            end: '2024-10-03 10:00'
+        },
+        {
+            id: '2',
+            title: 'Sviluppo algoritmo opt',
+            location: 'Online',
+            people: ['Donato'],
+            start: '2024-10-02 15:00',
+            end: '2024-10-02 17:00'
+        },
+        {
+            id: '3',
+            title: 'Collaudo nuova droga',
+            location: 'Salerno',
+            people: ['Andrea'],
+            start: '2024-10-03 09:30',
+            end: '2024-10-03 10:00'
+        },
+    ]
+}
+
+const plugins = [
+    createDragAndDropPlugin(15),
+    createResizePlugin()
+]
+
+const calendar = createCalendar(config, plugins)
+
+calendar.render(document.querySelector('.calendar'))
+```
+
+`/Users/lorenzotarcinale/repo/timetable-opt-poc-ui/js/sidebar.js`:
+
+```js
+
+document.addEventListener('DOMContentLoaded', () => {
+    const sidebar = document.querySelector('.sidebar');
+    let timeoutId;
+  
+    document.addEventListener('mousemove', (e) => {
+      const threshold = 250; // Distanza in pixel dal bordo sinistro
+  
+      if (e.clientX <= threshold) {
+        clearTimeout(timeoutId);
+        sidebar.style.left = '0';
+      } else {
+        timeoutId = setTimeout(() => {
+          sidebar.style.left = '-250px';
+        }, 300); // Ritardo prima di nascondere la sidebar
+      }
+    });
+  });
+```
+
+`/Users/lorenzotarcinale/repo/timetable-opt-poc-ui/js/calendar-config.js`:
+
+```js
+const { createCalendar, viewWeek } = window.SXCalendar;
+const { createDragAndDropPlugin } = window.SXDragAndDrop;
+const { createResizePlugin } = window.SXResize;
+
+// Funzione per caricare gli eventi
+async function loadEvents() {
+  try {
+    const response = await fetch('../data/events.json');
+    const data = await response.json();
+    return data.events;
+  } catch (error) {
+    console.error('Errore nel caricamento degli eventi:', error);
+    return [];
+  }
+}
+
+// Funzione principale asincrona
+async function initCalendar() {
+  const events = await loadEvents();
+
+  const config = {
+    locale: 'it-IT',
+    firstDayOfWeek: 1,
+    isDark: false,
+    dayBoundaries: {
+      start: '07:00',
+      end: '19:00',
+    },
+    views: [viewWeek],
+    weekOptions: {
+      gridHeight: 570,
+      timeAxisFormatOptions: { hour: '2-digit', minute: '2-digit' },
+    },
+    events: events // Usa gli eventi caricati dal JSON
+  };
+
+  const plugins = [
+    createDragAndDropPlugin(15),
+    createResizePlugin()
+  ];
+
+  const calendar = createCalendar(config, plugins);
+  calendar.render(document.querySelector('.calendar'));
+}
+
+// Avvia l'inizializzazione del calendario
+initCalendar();
+```
+
+`/Users/lorenzotarcinale/repo/timetable-opt-poc-ui/c2p.txt`:
+
+```txt
 Project Path: schedule-x-test
 
 Source Tree:
@@ -571,6 +788,130 @@ body {
 ```
 
 `/Users/lorenzotarcinale/repo/timetable-opt-poc-vue/schedule-x-test/data/events.json`:
+
+```json
+{
+    "events": [
+      {
+        "id": "1",
+        "title": "Migliorare front-end",
+        "location": "Online",
+        "people": ["Lorenzo", "Emanuele"],
+        "start": "2024-10-03 09:00",
+        "end": "2024-10-03 10:00"
+      },
+      {
+        "id": "2",
+        "title": "Sviluppo algoritmo opt",
+        "location": "Online",
+        "people": ["Donato"],
+        "start": "2024-10-02 15:00",
+        "end": "2024-10-02 17:00"
+      },
+      {
+        "id": "3",
+        "title": "Collaudo nuova droga",
+        "location": "Salerno",
+        "people": ["Andrea"],
+        "start": "2024-10-03 09:30",
+        "end": "2024-10-03 10:00"
+      }
+    ]
+  }
+  
+```
+```
+
+`/Users/lorenzotarcinale/repo/timetable-opt-poc-ui/README.md`:
+
+```md
+timetable-opt-poc.
+```
+
+`/Users/lorenzotarcinale/repo/timetable-opt-poc-ui/styles/style.css`:
+
+```css
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #ffffff;
+}
+
+.app-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sidebar {
+    position: fixed;
+    left: -250px;
+    top: 0;
+    width: 250px;
+    height: 100%;
+    background: linear-gradient(to right,
+            rgb(66, 2, 73) 0%,
+            rgba(138, 8, 214, 0.8) 60%,
+            rgba(255, 0, 0, 0) 100%);
+    transition: left 0.3s ease-in-out;
+    z-index: 1000;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 20px;
+}
+
+.sidebar h2 {
+    color: white;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.calendar-container {
+    width: 90%;
+    height: 73vh;
+    max-width: 1200px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.calendar {
+    width: 100%;
+    height: 100%;
+}
+
+.sx__calendar-wrapper * {
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.sx__day-grid-cell-content {
+    font-weight: 300;
+}
+
+.sx__event-title {
+    font-weight: 500;
+}
+
+.sx__time-column-header {
+    font-weight: 400;
+}
+```
+
+`/Users/lorenzotarcinale/repo/timetable-opt-poc-ui/data/events.json`:
 
 ```json
 {
