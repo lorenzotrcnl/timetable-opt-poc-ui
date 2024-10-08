@@ -76,3 +76,15 @@ body {
 .sx__time-column-header {
     font-weight: 400;
 }
+
+/* Assicuriamoci che il calendario occupi tutto lo spazio disponibile nella card */
+.calendar {
+    height: 100%;
+    width: 100%;
+}
+
+/* Aggiungiamo uno stile per limitare l'altezza massima del calendario */
+.calendar-container {
+    max-height: calc(80vh - 2rem); /* 80% dell'altezza della viewport meno un po' di spazio per il padding */
+    overflow: auto;
+}

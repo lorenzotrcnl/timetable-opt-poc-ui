@@ -1,1 +1,1 @@
-timetable-opt-poc.
+ui for [timetable-opt-poc](https://github.com/teckWing/timetable-opt-poc-engine.git)
