@@ -12,6 +12,15 @@ body {
     font-weight: 400;
     font-style: normal;
     background-color: #ffffff;
+
+    --dot-bg: #1f1f1f;
+    --dot-color: white;
+    --dot-size: 0.7px;
+    --dot-space: 22px;
+    background:
+        linear-gradient(90deg, var(--dot-bg) calc(var(--dot-space) - var(--dot-size)), transparent 1%) center / var(--dot-space) var(--dot-space),
+        linear-gradient(var(--dot-bg) calc(var(--dot-space) - var(--dot-size)), transparent 1%) center / var(--dot-space) var(--dot-space),
+        var(--dot-color);
 }
 
 .app-container {
@@ -77,7 +86,6 @@ body {
     font-weight: 400;
 }
 
-/* Assicuriamoci che il calendario occupi tutto lo spazio disponibile nella card */
 .calendar {
     height: 100%;
     width: 100%;
@@ -85,6 +93,7 @@ body {
 
 /* Aggiungiamo uno stile per limitare l'altezza massima del calendario */
 .calendar-container {
-    max-height: calc(80vh - 2rem); /* 80% dell'altezza della viewport meno un po' di spazio per il padding */
+    max-height: calc(80vh - 2rem);
+    /* 80% dell'altezza della viewport meno un po' di spazio per il padding */
     overflow: auto;
 }

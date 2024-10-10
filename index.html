@@ -29,21 +29,20 @@
 </head>
 
 <body class="bg-gray-100 flex items-center justify-center min-h-screen">
-    <div class="container mx-auto p-4 flex gap-4 h-[80vh]"> <!-- Riduciamo l'altezza all'80% della viewport height -->
+    <div class="container mx-auto p-4 flex gap-4 h-[80vh]">
         <!-- Card per la sezione "Modifica parametri" -->
-        <div class="card bg-base-100 shadow-xl w-1/4">
-            <div class="card-body">
-                <h2 class="card-title">Modifica parametri</h2>
+        <div class="bg-base-100 shadow-xl w-1/4 rounded-lg overflow-auto">
+            <!-- Rimuoviamo la classe 'card' e aggiungiamo 'rounded-lg' per mantenere i bordi arrotondati -->
+            <div class="p-4"> <!-- Sostituiamo 'card-body' con un semplice padding -->
+                <h2 class="text-xl font-bold mb-4">Modifica parametri</h2>
                 <!-- Qui puoi aggiungere i componenti per modificare i parametri -->
                 <p>Contenuto della sezione parametri...</p>
             </div>
         </div>
 
-        <!-- Card per il calendario -->
-        <div class="card bg-base-100 shadow-xl w-3/4">
-            <div class="card-body p-0"> <!-- Rimuoviamo il padding interno per il calendario -->
-                <div class="calendar h-full"></div>
-            </div>
+        <!-- Calendario senza card -->
+        <div class="w-3/4 bg-base-100 shadow-xl rounded-lg overflow-hidden">
+            <div class="calendar h-full"></div>
         </div>
     </div>
 
