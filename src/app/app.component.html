@@ -1,0 +1,86 @@
+<div class="entire-screen">
+
+  <div class="lateral-menu" [class.closed]="isMenuClosed">
+
+    <div *ngIf="!showClassesDropdown" class="divShowClassesDropdown">
+      <div class="search-container">
+        <i class="fas fa-search icon"></i> <!-- Icona della lente di ingrandimento -->
+        <input type="text" [(ngModel)]="searchText" (input)="filterTeachers()" placeholder="Cerca insegnante..." class="search-input w-full" />
+      </div>
+      <ul *ngIf="filteredTeachers.length > 0" class="results-list">
+        <li *ngFor="let t of filteredTeachers" (click)="selectTeacher(t)" class="result-item">{{ t }}</li>
+      </ul>
+    </div>
+    
+    <div *ngIf="showClassesDropdown" class="divShowClassesDropdown">
+      <div class="search-container">
+        <i class="fas fa-search icon"></i> <!-- Icona della lente di ingrandimento -->
+        <input type="text" [(ngModel)]="searchText" (input)="filterClasses()" placeholder="Cerca corso di laurea..." class="search-input w-full" />
+      </div>
+      <ul *ngIf="filteredClasses.length > 0" class="results-list">
+        <li *ngFor="let c of filteredClasses" (click)="selectClass(c)" class="result-item">{{ c }}</li>
+      </ul>
+    </div>
+    
+    <!-- Switch button -->
+    <div class="switch-view">
+      <h2 class="text-teachers">Teachers</h2>
+      <input type="checkbox" class="toggle" [(ngModel)]="showClassesDropdown" />
+      <h2 class="text-classes">Classes</h2>
+    </div>
+
+    <div class="collapse collapse-arrow">
+      <input type="radio" name="my-accordion-2" checked="checked" />
+      <div class="collapse-title text-xl font-medium">Preferenza slot</div>
+      <div class="collapse-content">
+        Ciao
+      </div>
+    </div>
+    <div class="collapse collapse-arrow">
+      <input type="radio" name="my-accordion-2" />
+      <div class="collapse-title text-xl font-medium">Altre opzioni</div>
+      <div class="collapse-content">
+        <p>Altre options</p>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="toggle-button" (click)="toggleMenu()">
+    <i [class]="isMenuClosed ? 'fas fa-arrow-right' : 'fas fa-arrow-left'"></i>
+  </div>
+
+  <div class="visualization" [class.expanded]="isMenuClosed">
+    
+    <div class="timetable-container">
+      <table class="timetable">
+        <thead>
+          <tr>
+            <th class="slot-column"></th>
+            <th *ngFor="let day of days">{{ day }}</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let slot of slotsArray">
+            <td class="slot-cell">{{ slot }}</td>
+            <td *ngFor="let day of days">
+              <div *ngIf="!showClassesDropdown">
+                <div *ngFor="let person of getTeachersView(day, slot)">
+                  <p>{{ person.title }}</p>
+                </div>
+              </div>
+              <div *ngIf="showClassesDropdown">
+                <div *ngFor="let item of getClassView(day, slot)">
+                  <p>{{ item.title }}</p>
+                  <p *ngFor="let person of item.people">{{ person }}</p>
+                </div>
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+  </div>
+
+</div>

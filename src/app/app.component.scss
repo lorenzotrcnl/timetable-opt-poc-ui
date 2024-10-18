@@ -1,0 +1,164 @@
+
+.entire-screen{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  position: relative;
+}
+
+.lateral-menu {
+  width: 25%;
+  height: 100%;
+  background-color: #3B3B3B;
+  border-top-right-radius: 20px; /* Angolo destro superiore arrotondato */
+  border-bottom-right-radius: 20px; /* Angolo destro inferiore arrotondato */
+  transition: transform 0.5s ease;
+  overflow: hidden;
+  position: relative;
+  transform: translateX(0); /* Assicura che il menu sia visibile per default */
+}
+
+.lateral-menu.closed {
+  transform: translateX(-100%); /* Nasconde il menu completamente */
+}
+
+.toggle-button {
+  position: fixed; /* Fissa la posizione della freccia */
+  top: 50%;
+  left: 25%;
+  transform: translate(-30%, -50%);
+  font-size: 24px;
+  cursor: pointer;
+  z-index: 1001;
+  color: white;
+  background-color: #3B3B3B;
+  padding: 5px;
+  border-radius: 25%;
+  transition: left 0.5s ease;
+}
+
+.lateral-menu.closed ~ .toggle-button {
+  left: 0; /* Sposta la freccia verso sinistra quando il menu è chiuso */
+}
+
+.selectClass{
+  color: black;
+}
+
+.switch-view{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.text-teachers{
+  margin-right: 2%;
+  color: white;
+}
+
+.text-classes {
+  margin-left: 2%; 
+  color: white;
+}
+
+.divShowClassesDropdown{
+  padding-right: 2%;
+  padding-left: 2%;
+  padding-top: 15%;
+  position: relative;
+}
+
+.search-container {
+  display: flex;
+  align-items: center;
+  position: relative;
+  border-bottom: 1px solid white; /* Bordo sotto bianco */
+}
+
+.icon {
+  color: white;
+  margin-right: 8px; /* Spazio tra l'icona e l'input */
+}
+
+.search-input {
+  width: 100%;
+  border: none;
+  background: transparent;
+  color: white;
+  padding: 8px 0; /* Spazio interno per l'input */
+  outline: none;
+}
+
+.visualization {
+  width: 75%; /* Larghezza normale quando il menu è aperto */
+  transition: width 0.5s ease;
+}
+
+.visualization.expanded {
+  width: 100vh; /* Occupa l'intera larghezza quando il menu è chiuso */
+}
+
+.results-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  max-height: 50vh; /* Altezza massima della lista come 50% della finestra */
+  overflow-y: auto; /* Permette lo scrolling verticale */
+  border: 1px solid #ddd;
+  border-radius: 15px;
+  z-index: 1000; /* Assicura che la lista sia sopra gli altri elementi */
+  background-color: #3B3B3B;
+  position: absolute; /* Posiziona assolutamente la lista */
+  width: 95%; /* Adatta la larghezza della lista a quella dell'input */
+  top: 100%; /* Posiziona la lista subito sotto l'input */
+}
+
+.result-item {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  cursor: pointer;
+}
+
+.result-item:hover {
+  background-color: #f0f0f0;
+}
+
+.color-black {
+  color: black;
+}
+
+.timetable-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.timetable td {
+  border-left: 0.5px dashed #ddd;
+  border-right: 0.5px dashed #ddd;
+  border-bottom: 0.5px dashed #ddd;
+  padding: 8px;
+  text-align: center;
+  height: 10vh;
+}
+
+.timetable th {
+  border-left: 0.5px dashed #ddd;
+  border-right: 0.5px dashed #ddd;
+  padding: 8px;
+  text-align: center;
+  height: 10vh;
+}
+
+.timetable .slot-column{
+  border-left: none;
+}
+
+.timetable .slot-cell{
+  border-left: none;
+}

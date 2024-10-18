@@ -1,0 +1,37 @@
+.button-group {
+  padding: 10px 20px;
+  margin: 2%;
+  border: none;
+  cursor: pointer;
+}
+
+.buttonGreen{
+  background-color: rgb(110, 255, 130);
+  margin: 2%;
+}
+  
+.selectedGreen {
+  border: 2px solid rgb(27, 255, 57);
+}
+
+.buttonYellow{
+  background-color: rgb(255, 253, 120);
+  margin: 2%;
+}
+
+.selectedYellow {
+  border: 2px solid rgb(255, 251, 23);
+}
+
+.buttonRed{
+  background-color: rgb(255, 69, 69);
+  margin: 2%;
+}
+
+.selectedRed {
+  border: 2px solid rgb(255, 0, 0);
+}
+
+.transparent {
+  opacity: 0.3;
+}

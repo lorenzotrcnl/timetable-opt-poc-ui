@@ -1,0 +1,5 @@
+<div class="button-group">
+  <button class="buttonGreen" [ngClass]="{'selectedGreen': valueSlot === 'Low', 'transparent': valueSlot !== 'Low'}" (click)="selectSlotPreferences('Low')">Low</button>
+  <button class="buttonYellow" [ngClass]="{'selectedYellow': valueSlot === 'Mid', 'transparent': valueSlot !== 'Mid'}" (click)="selectSlotPreferences('Mid')">Mid</button>
+  <button class="buttonRed" [ngClass]="{'selectedRed': valueSlot === 'High', 'transparent': valueSlot !== 'High'}" (click)="selectSlotPreferences('High')">High</button>
+</div>

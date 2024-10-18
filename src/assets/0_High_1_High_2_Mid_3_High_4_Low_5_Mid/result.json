@@ -1,0 +1,6726 @@
+{
+  "class_view": {
+    "Economia - Consulenza Professionale E Finanziaria (Cpf) - 1 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Menita Giusy De Flora"
+          ],
+          "title": "Diritto Tributario D'Impresa E Processuale"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Marco Bisogno"
+          ],
+          "title": "Bilanci E Comunicazione Economico Finanziaria"
+        },
+        "5": {
+          "people": [
+            "Marco Bisogno"
+          ],
+          "title": "Bilanci E Comunicazione Economico Finanziaria"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Marco Bisogno"
+          ],
+          "title": "Bilanci E Comunicazione Economico Finanziaria"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Menita Giusy De Flora"
+          ],
+          "title": "Diritto Tributario D'Impresa E Processuale"
+        },
+        "5": {
+          "people": [
+            "Menita Giusy De Flora"
+          ],
+          "title": "Diritto Tributario D'Impresa E Processuale"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Menita Giusy De Flora"
+          ],
+          "title": "Diritto Tributario D'Impresa E Processuale"
+        },
+        "5": {}
+      }
+    },
+    "Economia Aziendale - Generale - 3 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Giovanni Agrusti"
+          ],
+          "title": "Laboratorio Di Diritto Dei Contratti D'Impresa"
+        },
+        "5": {
+          "people": [
+            "Giovanni Agrusti"
+          ],
+          "title": "Laboratorio Di Diritto Dei Contratti D'Impresa"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Gerardino Metallo"
+          ],
+          "title": "Marketing"
+        },
+        "5": {
+          "people": [
+            "Gerardino Metallo"
+          ],
+          "title": "Marketing"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Giancarlo Sorrentino"
+          ],
+          "title": "Diritto Amministrativo"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Emiliano Mastrolia"
+          ],
+          "title": "Finanza Aziendale"
+        },
+        "5": {
+          "people": [
+            "Emiliano Mastrolia"
+          ],
+          "title": "Finanza Aziendale"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Emiliano Mastrolia"
+          ],
+          "title": "Finanza Aziendale"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Giancarlo Sorrentino"
+          ],
+          "title": "Diritto Amministrativo"
+        },
+        "5": {
+          "people": [
+            "Giancarlo Sorrentino"
+          ],
+          "title": "Diritto Amministrativo"
+        }
+      }
+    },
+    "Scienze Statistiche Per La Finanza - Risk Analytics - 2 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Francesco Giordano"
+          ],
+          "title": "Processi Stocastici"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Giuseppe Storti"
+          ],
+          "title": "Modelli Statistici Per Il Risk Management"
+        },
+        "5": {
+          "people": [
+            "Giuseppe Storti"
+          ],
+          "title": "Modelli Statistici Per Il Risk Management"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Giuseppe Storti"
+          ],
+          "title": "Modelli Statistici Per Il Risk Management"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Michele La Rocca"
+          ],
+          "title": "Advanced Statistical Modelling For Big Data"
+        },
+        "5": {
+          "people": [
+            "Francesco Giordano"
+          ],
+          "title": "Processi Stocastici"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Michele La Rocca"
+          ],
+          "title": "Advanced Statistical Modelling For Big Data"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Michele La Rocca"
+          ],
+          "title": "Advanced Statistical Modelling For Big Data"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Scienze Dell'Amministrazione E Dell'Organizzazione - Comune - 1 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Anna Fortunato"
+          ],
+          "title": "Istituzioni Di Diritto Pubblico"
+        },
+        "5": {
+          "people": [
+            "Anna Fortunato"
+          ],
+          "title": "Istituzioni Di Diritto Pubblico"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Sacha Anthony Berardo"
+          ],
+          "title": "Lingua E Linguistica Inglese I"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Biagio Di Salvia"
+          ],
+          "title": "Storia Dei Processi Socio-Economici Contemporanei"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Paolo Vinci"
+          ],
+          "title": "Analisi Economica"
+        },
+        "5": {
+          "people": [
+            "Sacha Anthony Berardo"
+          ],
+          "title": "Lingua E Linguistica Inglese I"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Anna Fortunato"
+          ],
+          "title": "Istituzioni Di Diritto Pubblico"
+        },
+        "5": {
+          "people": [
+            "Anna Fortunato"
+          ],
+          "title": "Istituzioni Di Diritto Pubblico"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Biagio Di Salvia"
+          ],
+          "title": "Storia Dei Processi Socio-Economici Contemporanei"
+        },
+        "5": {
+          "people": [
+            "Paolo Vinci"
+          ],
+          "title": "Analisi Economica"
+        }
+      }
+    },
+    "Economia Aziendale - Comune - 1 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Rosa Ferrentino"
+          ],
+          "title": "Matematica Per L'Economia (Matr.Pari)"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Aldo Montaudo",
+            "Marco Santillo"
+          ],
+          "title": "Storia Economica (Matr.Dispari)"
+        },
+        "5": {
+          "people": [
+            "Aldo Montaudo",
+            "Marco Santillo"
+          ],
+          "title": "Storia Economica (Matr.Dispari)"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Francesco Ciardiello"
+          ],
+          "title": "Matematica Per L'Economia (Matr.Dispari)"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Rosa Ferrentino"
+          ],
+          "title": "Matematica Per L'Economia (Matr.Pari)"
+        },
+        "5": {
+          "people": [
+            "Rosa Ferrentino"
+          ],
+          "title": "Matematica Per L'Economia (Matr.Pari)"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Francesco Ciardiello"
+          ],
+          "title": "Matematica Per L'Economia (Matr.Dispari)"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Francesca Citro"
+          ],
+          "title": "Economia Aziendale"
+        },
+        "5": {
+          "people": [
+            "Francesca Citro"
+          ],
+          "title": "Economia Aziendale"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Marco Santillo"
+          ],
+          "title": "Storia Economica (Matr.Pari)"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Francesco Ciardiello"
+          ],
+          "title": "Matematica Per L'Economia (Matr.Dispari)"
+        },
+        "5": {
+          "people": [
+            "Francesca Citro"
+          ],
+          "title": "Economia Aziendale"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Aldo Montaudo",
+            "Marco Santillo"
+          ],
+          "title": "Storia Economica (Matr.Dispari)"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Marco Santillo"
+          ],
+          "title": "Storia Economica (Matr.Pari)"
+        },
+        "5": {
+          "people": [
+            "Marco Santillo"
+          ],
+          "title": "Storia Economica (Matr.Pari)"
+        }
+      }
+    },
+    "Economia E Commercio - Economico Finanziario - 2 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Francesco Giordano"
+          ],
+          "title": "Statistica (Matr.Dispari)"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Marco Galdi"
+          ],
+          "title": "Diritto Pubblico"
+        },
+        "5": {
+          "people": [
+            "Marco Galdi"
+          ],
+          "title": "Diritto Pubblico"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Marco Galdi"
+          ],
+          "title": "Diritto Pubblico"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Armando Papa"
+          ],
+          "title": "Economia E Gestione Delle Imprese"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Francesco Giordano"
+          ],
+          "title": "Statistica (Matr.Dispari)"
+        },
+        "5": {
+          "people": [
+            "Francesco Giordano"
+          ],
+          "title": "Statistica (Matr.Dispari)"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Armando Papa"
+          ],
+          "title": "Economia E Gestione Delle Imprese"
+        },
+        "5": {
+          "people": [
+            "Armando Papa"
+          ],
+          "title": "Economia E Gestione Delle Imprese"
+        }
+      }
+    },
+    "Economia E Commercio - Economico Professionale - 2 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Francesco Giordano"
+          ],
+          "title": "Statistica (Matr.Dispari)"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Marco Galdi"
+          ],
+          "title": "Diritto Pubblico"
+        },
+        "5": {
+          "people": [
+            "Marco Galdi"
+          ],
+          "title": "Diritto Pubblico"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Marco Galdi"
+          ],
+          "title": "Diritto Pubblico"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Armando Papa"
+          ],
+          "title": "Economia E Gestione Delle Imprese"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Francesco Giordano"
+          ],
+          "title": "Statistica (Matr.Dispari)"
+        },
+        "5": {
+          "people": [
+            "Francesco Giordano"
+          ],
+          "title": "Statistica (Matr.Dispari)"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Armando Papa"
+          ],
+          "title": "Economia E Gestione Delle Imprese"
+        },
+        "5": {
+          "people": [
+            "Armando Papa"
+          ],
+          "title": "Economia E Gestione Delle Imprese"
+        }
+      }
+    },
+    "Economia - Economia E Finanza (Ef) - 1 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Marcello D'Ambrosio",
+            "Giuseppe Liccardo"
+          ],
+          "title": "Contratti Bancari E Assicurativi"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Fausto Galli"
+          ],
+          "title": "Econometria"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Fausto Galli"
+          ],
+          "title": "Econometria"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Marcello D'Ambrosio",
+            "Giuseppe Liccardo"
+          ],
+          "title": "Contratti Bancari E Assicurativi"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Fausto Galli"
+          ],
+          "title": "Econometria"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Marcello D'Ambrosio",
+            "Giuseppe Liccardo"
+          ],
+          "title": "Contratti Bancari E Assicurativi"
+        },
+        "5": {}
+      }
+    },
+    "Economia - Consulenza Professionale E Finanziaria (Cpf) - 2 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Antonio D'Amato"
+          ],
+          "title": "Pianificazione Aziendale E Decisioni D'Investimento"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Antonio D'Amato"
+          ],
+          "title": "Pianificazione Aziendale E Decisioni D'Investimento"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Antonio D'Amato"
+          ],
+          "title": "Pianificazione Aziendale E Decisioni D'Investimento"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Sara Milito",
+            "Maria Russolillo"
+          ],
+          "title": "Analisi Quantitativa Del Rischio Finanziario"
+        },
+        "5": {
+          "people": [
+            "Sara Milito",
+            "Maria Russolillo"
+          ],
+          "title": "Analisi Quantitativa Del Rischio Finanziario"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Sara Milito",
+            "Maria Russolillo"
+          ],
+          "title": "Analisi Quantitativa Del Rischio Finanziario"
+        },
+        "5": {}
+      }
+    },
+    "Scienze Del Turismo - Comune - 3 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Gerardino Metallo"
+          ],
+          "title": "Gestione Delle Aziende E Dei Sistemi Territoriali Turistici"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Gennaro Avallone"
+          ],
+          "title": "Sociologia Del Territorio"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Gennaro Avallone"
+          ],
+          "title": "Sociologia Del Territorio"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Gerardino Metallo"
+          ],
+          "title": "Gestione Delle Aziende E Dei Sistemi Territoriali Turistici"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Gennaro Avallone"
+          ],
+          "title": "Sociologia Del Territorio"
+        },
+        "5": {}
+      }
+    },
+    "Economia Governo E Amministrazione - Governo E Amministrazione - 2 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Bruna Bruno",
+            "Antonio Abatemarco"
+          ],
+          "title": "Microeconomia Del Settore Pubblico"
+        },
+        "5": {
+          "people": [
+            "Bruna Bruno",
+            "Antonio Abatemarco"
+          ],
+          "title": "Microeconomia Del Settore Pubblico"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Giuseppe Storti",
+            "Antonio Naimoli"
+          ],
+          "title": "Statistica Economica"
+        },
+        "5": {
+          "people": [
+            "Giuseppe Storti",
+            "Antonio Naimoli"
+          ],
+          "title": "Statistica Economica"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Giuseppe Storti",
+            "Antonio Naimoli"
+          ],
+          "title": "Statistica Economica"
+        },
+        "5": {
+          "people": [
+            "Giuseppe Storti",
+            "Antonio Naimoli"
+          ],
+          "title": "Statistica Economica"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Bruna Bruno",
+            "Antonio Abatemarco"
+          ],
+          "title": "Microeconomia Del Settore Pubblico"
+        },
+        "5": {
+          "people": [
+            "Bruna Bruno",
+            "Antonio Abatemarco"
+          ],
+          "title": "Microeconomia Del Settore Pubblico"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Scienze Dell'Amministrazione E Dell'Organizzazione - Comune - 3 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Mario Quaranta"
+          ],
+          "title": "Diritto Del Lavoro"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Ernesto De Nito"
+          ],
+          "title": "Economia, Organizzazione E Management"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Anna Fortunato"
+          ],
+          "title": "Diritto Regionale E Degli Enti Locali"
+        },
+        "5": {
+          "people": [
+            "Anna Fortunato"
+          ],
+          "title": "Diritto Regionale E Degli Enti Locali"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Mario Quaranta"
+          ],
+          "title": "Diritto Del Lavoro"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Ernesto De Nito"
+          ],
+          "title": "Economia, Organizzazione E Management"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Mario Quaranta"
+          ],
+          "title": "Diritto Del Lavoro"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Giuseppe Garofalo"
+          ],
+          "title": "Contratti D' Impresa"
+        },
+        "5": {
+          "people": [
+            "Giuseppe Garofalo"
+          ],
+          "title": "Contratti D' Impresa"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Adriana Barone"
+          ],
+          "title": "Economia, Impresa E Ambiente"
+        },
+        "5": {
+          "people": [
+            "Adriana Barone"
+          ],
+          "title": "Economia, Impresa E Ambiente"
+        }
+      }
+    },
+    "Economia - Economia E Management Per L'Internazionalizzazione (Empi) - 2 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Vincenzo Candila"
+          ],
+          "title": "Statistica Per L'Impresa"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Armando Papa"
+          ],
+          "title": "International Marketing"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Armando Papa"
+          ],
+          "title": "International Marketing"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Armando Papa"
+          ],
+          "title": "International Marketing"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Vincenzo Candila"
+          ],
+          "title": "Statistica Per L'Impresa"
+        },
+        "5": {
+          "people": [
+            "Vincenzo Candila"
+          ],
+          "title": "Statistica Per L'Impresa"
+        }
+      }
+    },
+    "Economia Aziendale - Commercio Internazionale - 3 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Rosa Maria Caprino"
+          ],
+          "title": "Tecnica Del Commercio Estero E Marketing Internazionale"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Menita Giusy De Flora"
+          ],
+          "title": "Diritto Tributario Internazionale"
+        },
+        "5": {
+          "people": [
+            "Menita Giusy De Flora"
+          ],
+          "title": "Diritto Tributario Internazionale"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Rosa Maria Caprino"
+          ],
+          "title": "Tecnica Del Commercio Estero E Marketing Internazionale"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Rosa Maria Caprino"
+          ],
+          "title": "Tecnica Del Commercio Estero E Marketing Internazionale"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Pietro Paolo Mauro"
+          ],
+          "title": "Laboratorio Di Internazionalizzazione Delle Imprese"
+        },
+        "5": {
+          "people": [
+            "Pietro Paolo Mauro"
+          ],
+          "title": "Laboratorio Di Internazionalizzazione Delle Imprese"
+        }
+      }
+    },
+    "Economia - Economia E Management Dell'Innovazione (Emi) - 2 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Fabio Carlucci",
+            "Barbara Trincone"
+          ],
+          "title": "Economia Delle Reti"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Fabio Altamura",
+            "Mario Di Serio"
+          ],
+          "title": "Laboratorio Di Impresa"
+        },
+        "5": {
+          "people": [
+            "Fabio Altamura",
+            "Mario Di Serio"
+          ],
+          "title": "Laboratorio Di Impresa"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Fabio Altamura",
+            "Mario Di Serio"
+          ],
+          "title": "Laboratorio Di Impresa"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Fabio Carlucci",
+            "Barbara Trincone"
+          ],
+          "title": "Economia Delle Reti"
+        },
+        "5": {
+          "people": [
+            "Fabio Carlucci",
+            "Barbara Trincone"
+          ],
+          "title": "Economia Delle Reti"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Economia Aziendale - Bancario Assicurativo - 3 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Rosaria Cerrone"
+          ],
+          "title": "Economia Degli Intermediari Finanziari"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Rosaria Cerrone"
+          ],
+          "title": "Economia Degli Intermediari Finanziari"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Rosaria Cerrone"
+          ],
+          "title": "Economia Degli Intermediari Finanziari"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Economia E Commercio - Economico Professionale - 1 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Rosa Ferrentino"
+          ],
+          "title": "Matematica Per L'Economia (Matr.Pari)"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Maria Russolillo"
+          ],
+          "title": "Matematica Per L'Economia (Matr.Dispari)"
+        },
+        "5": {
+          "people": [
+            "Biagio Di Salvia"
+          ],
+          "title": "Storia Economica (Matr.Dispari)"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Aldo Montaudo"
+          ],
+          "title": "Storia Economica (Matr.Pari)"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Rosa Ferrentino"
+          ],
+          "title": "Matematica Per L'Economia (Matr.Pari)"
+        },
+        "5": {
+          "people": [
+            "Rosa Ferrentino"
+          ],
+          "title": "Matematica Per L'Economia (Matr.Pari)"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Giuseppe Liccardo"
+          ],
+          "title": "Diritto Privato (Matr.Dispari)"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Biagio Di Salvia"
+          ],
+          "title": "Storia Economica (Matr.Dispari)"
+        },
+        "5": {
+          "people": [
+            "Biagio Di Salvia"
+          ],
+          "title": "Storia Economica (Matr.Dispari)"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Maria Russolillo"
+          ],
+          "title": "Matematica Per L'Economia (Matr.Dispari)"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Giuseppe Liccardo"
+          ],
+          "title": "Diritto Privato (Matr.Dispari)"
+        },
+        "5": {
+          "people": [
+            "Giuseppe Liccardo"
+          ],
+          "title": "Diritto Privato (Matr.Dispari)"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Maria Russolillo"
+          ],
+          "title": "Matematica Per L'Economia (Matr.Dispari)"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Aldo Montaudo"
+          ],
+          "title": "Storia Economica (Matr.Pari)"
+        },
+        "5": {
+          "people": [
+            "Aldo Montaudo"
+          ],
+          "title": "Storia Economica (Matr.Pari)"
+        }
+      }
+    },
+    "Economia Aziendale - Comune - 2 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Giuseppina Autiero"
+          ],
+          "title": "Macroeconomia (Matr. Dispari)"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Maria Lucia Parrella"
+          ],
+          "title": "Statistica (Matr.Dispari)"
+        },
+        "5": {
+          "people": [
+            "Francesca Citro",
+            "Paolo Minasi"
+          ],
+          "title": "Ragioneria Generale E Applicata"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Alessandra Amendola"
+          ],
+          "title": "Statistica (Matr.Pari)"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Giuseppe Russo"
+          ],
+          "title": "Macroeconomia (Matr.Pari)"
+        },
+        "5": {
+          "people": [
+            "Giuseppe Russo"
+          ],
+          "title": "Macroeconomia (Matr.Pari)"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Maria Lucia Parrella"
+          ],
+          "title": "Statistica (Matr.Dispari)"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Giuseppina Autiero"
+          ],
+          "title": "Macroeconomia (Matr. Dispari)"
+        },
+        "5": {
+          "people": [
+            "Giuseppina Autiero"
+          ],
+          "title": "Macroeconomia (Matr. Dispari)"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Maria Lucia Parrella"
+          ],
+          "title": "Statistica (Matr.Dispari)"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Francesca Citro",
+            "Paolo Minasi"
+          ],
+          "title": "Ragioneria Generale E Applicata"
+        },
+        "5": {
+          "people": [
+            "Alessandra Amendola"
+          ],
+          "title": "Statistica (Matr.Pari)"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Francesca Citro",
+            "Paolo Minasi"
+          ],
+          "title": "Ragioneria Generale E Applicata"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Giuseppe Russo"
+          ],
+          "title": "Macroeconomia (Matr.Pari)"
+        },
+        "5": {
+          "people": [
+            "Alessandra Amendola"
+          ],
+          "title": "Statistica (Matr.Pari)"
+        }
+      }
+    },
+    "Economia Governo E Amministrazione - Economia E Amministrazione Dell'Ambiente - 1 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Paolo Vinci"
+          ],
+          "title": "Modelli Di Politica Economica"
+        },
+        "5": {
+          "people": [
+            "Paolo Vinci"
+          ],
+          "title": "Modelli Di Politica Economica"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Paolo Vinci"
+          ],
+          "title": "Modelli Di Politica Economica"
+        },
+        "5": {
+          "people": [
+            "Paolo Vinci"
+          ],
+          "title": "Modelli Di Politica Economica"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Marisa Faggini"
+          ],
+          "title": "Economia Circolare E Politiche Ambientali"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Marisa Faggini"
+          ],
+          "title": "Economia Circolare E Politiche Ambientali"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Ernesto De Nito"
+          ],
+          "title": "Organizzazione E Gestione Delle Risorse Umane"
+        },
+        "5": {
+          "people": [
+            "Ernesto De Nito"
+          ],
+          "title": "Organizzazione E Gestione Delle Risorse Umane"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Vincenzo Luciani"
+          ],
+          "title": "Diritto Del Lavoro Pubblico"
+        },
+        "5": {
+          "people": [
+            "Vincenzo Luciani"
+          ],
+          "title": "Diritto Del Lavoro Pubblico"
+        }
+      }
+    },
+    "Scienze Del Turismo - Comune - 2 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Giuseppe Liccardo",
+            "Serena Serravalle"
+          ],
+          "title": "Diritto Privato Del Turismo"
+        },
+        "5": {
+          "people": [
+            "Giuseppe Liccardo",
+            "Serena Serravalle"
+          ],
+          "title": "Diritto Privato Del Turismo"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Sacha Anthony Berardo"
+          ],
+          "title": "Inglese Per Il Turismo"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Sacha Anthony Berardo"
+          ],
+          "title": "Inglese Per Il Turismo"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Massimiliano Menzietti"
+          ],
+          "title": "Matematica Per Le Imprese Turistiche"
+        },
+        "5": {
+          "people": [
+            "Massimiliano Menzietti"
+          ],
+          "title": "Matematica Per Le Imprese Turistiche"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Sacha Anthony Berardo"
+          ],
+          "title": "Inglese Per Il Turismo"
+        },
+        "5": {
+          "people": [
+            "Giuseppe Liccardo",
+            "Serena Serravalle"
+          ],
+          "title": "Diritto Privato Del Turismo"
+        }
+      }
+    },
+    "Statistica Per I Big Data - Comune - 3 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Michele La Rocca"
+          ],
+          "title": "Metodi Statistici Per I Big Data"
+        },
+        "5": {
+          "people": [
+            "Michele La Rocca"
+          ],
+          "title": "Metodi Statistici Per I Big Data"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Pietro Coretto"
+          ],
+          "title": "Statistical Learning"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Roberto Tagliaferri"
+          ],
+          "title": "Architetture Per I Big Data"
+        },
+        "5": {
+          "people": [
+            "Pietro Coretto"
+          ],
+          "title": "Statistical Learning"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Pietro Coretto"
+          ],
+          "title": "Statistical Learning"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Roberto Tagliaferri"
+          ],
+          "title": "Architetture Per I Big Data"
+        },
+        "5": {}
+      }
+    },
+    "Economia Governo E Amministrazione - Governo E Amministrazione - 1 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Paolo Vinci"
+          ],
+          "title": "Modelli Di Politica Economica"
+        },
+        "5": {
+          "people": [
+            "Paolo Vinci"
+          ],
+          "title": "Modelli Di Politica Economica"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Fabio Altamura"
+          ],
+          "title": "Diritto Dell'Innovazione"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Paolo Vinci"
+          ],
+          "title": "Modelli Di Politica Economica"
+        },
+        "5": {
+          "people": [
+            "Paolo Vinci"
+          ],
+          "title": "Modelli Di Politica Economica"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Bruna Bruno",
+            "Giuseppina Autiero"
+          ],
+          "title": "Economia Dei Servizi Pubblici"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Fabio Altamura"
+          ],
+          "title": "Diritto Dell'Innovazione"
+        },
+        "5": {
+          "people": [
+            "Fabio Altamura"
+          ],
+          "title": "Diritto Dell'Innovazione"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Fabio Altamura"
+          ],
+          "title": "Diritto Dell'Innovazione"
+        },
+        "5": {
+          "people": [
+            "Fabio Altamura"
+          ],
+          "title": "Diritto Dell'Innovazione"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Bruna Bruno",
+            "Giuseppina Autiero"
+          ],
+          "title": "Economia Dei Servizi Pubblici"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Vincenzo Luciani"
+          ],
+          "title": "Diritto Del Lavoro Pubblico"
+        },
+        "5": {
+          "people": [
+            "Vincenzo Luciani"
+          ],
+          "title": "Diritto Del Lavoro Pubblico"
+        }
+      }
+    },
+    "Economia E Commercio - Economico Professionale - 3 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Marco Bisogno"
+          ],
+          "title": "Ragioneria Generale E Applicata"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Maria Grazia Romano"
+          ],
+          "title": "Economia Internazionale"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Maria Grazia Romano"
+          ],
+          "title": "Economia Internazionale"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Marco Bisogno"
+          ],
+          "title": "Ragioneria Generale E Applicata"
+        },
+        "5": {
+          "people": [
+            "Marco Bisogno"
+          ],
+          "title": "Ragioneria Generale E Applicata"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Maria Grazia Romano"
+          ],
+          "title": "Economia Internazionale"
+        },
+        "5": {}
+      }
+    },
+    "Scienze Statistiche Per La Finanza - Big Data Analytics - 2 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Giuseppe Storti"
+          ],
+          "title": "Modelli Statistici Per Il Risk Management"
+        },
+        "5": {
+          "people": [
+            "Giuseppe Storti"
+          ],
+          "title": "Modelli Statistici Per Il Risk Management"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Giuseppe Storti"
+          ],
+          "title": "Modelli Statistici Per Il Risk Management"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Michele La Rocca"
+          ],
+          "title": "Advanced Statistical Modelling For Big Data"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Michele La Rocca"
+          ],
+          "title": "Advanced Statistical Modelling For Big Data"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Michele La Rocca"
+          ],
+          "title": "Advanced Statistical Modelling For Big Data"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Economia - Economia E Management Per L'Internazionalizzazione (Empi) - 1 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Adriana Barone"
+          ],
+          "title": "Economia E Politica Internazionale"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Vincenzo Candila"
+          ],
+          "title": "Statistica Per L'Impresa"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Adriana Barone"
+          ],
+          "title": "Economia E Politica Internazionale"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Emanuele Indraccolo"
+          ],
+          "title": "Diritto Europeo Dei Contratti"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Adriana Barone"
+          ],
+          "title": "Economia E Politica Internazionale"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Emanuele Indraccolo"
+          ],
+          "title": "Diritto Europeo Dei Contratti"
+        },
+        "5": {
+          "people": [
+            "Emanuele Indraccolo"
+          ],
+          "title": "Diritto Europeo Dei Contratti"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Vincenzo Candila"
+          ],
+          "title": "Statistica Per L'Impresa"
+        },
+        "5": {
+          "people": [
+            "Vincenzo Candila"
+          ],
+          "title": "Statistica Per L'Impresa"
+        }
+      }
+    },
+    "Statistica Per I Big Data - Comune - 1 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Giovanna Bimonte"
+          ],
+          "title": "Matematica Generale"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Luca Sensini",
+            "Mario Testa"
+          ],
+          "title": "Economia E Management Aziendale"
+        },
+        "5": {
+          "people": [
+            "Carlo Blundo"
+          ],
+          "title": "Programmazione"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Giovanna Bimonte"
+          ],
+          "title": "Matematica Generale"
+        },
+        "5": {
+          "people": [
+            "Giovanna Bimonte"
+          ],
+          "title": "Matematica Generale"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Luca Sensini",
+            "Mario Testa"
+          ],
+          "title": "Economia E Management Aziendale"
+        },
+        "5": {
+          "people": [
+            "Luca Sensini",
+            "Mario Testa"
+          ],
+          "title": "Economia E Management Aziendale"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Carlo Blundo"
+          ],
+          "title": "Programmazione"
+        },
+        "5": {
+          "people": [
+            "Carlo Blundo"
+          ],
+          "title": "Programmazione"
+        }
+      }
+    },
+    "Economia E Commercio - Scelta Libera - 2 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Luigi Senatore"
+          ],
+          "title": "Cattedra Antonio Genovesi Di Economia Civile"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Luigi Senatore"
+          ],
+          "title": "Cattedra Antonio Genovesi Di Economia Civile"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Economia - Economia E Management Dell'Innovazione (Emi) - 1 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Fabio Carlucci"
+          ],
+          "title": "Economia Dell'Innovazione"
+        },
+        "5": {
+          "people": [
+            "Fabrizio Fezza"
+          ],
+          "title": "Diritto Dell'Innovazione"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Fabio Altamura"
+          ],
+          "title": "Diritto Dell'Innovazione"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Francesco Giordano"
+          ],
+          "title": "Statistica Per L'Impresa E L'Innovazione"
+        },
+        "5": {
+          "people": [
+            "Fabrizio Fezza"
+          ],
+          "title": "Diritto Dell'Innovazione"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Francesco Giordano"
+          ],
+          "title": "Statistica Per L'Impresa E L'Innovazione"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Fabio Altamura"
+          ],
+          "title": "Diritto Dell'Innovazione"
+        },
+        "5": {
+          "people": [
+            "Fabio Altamura"
+          ],
+          "title": "Diritto Dell'Innovazione"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Francesco Giordano"
+          ],
+          "title": "Statistica Per L'Impresa E L'Innovazione"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Fabio Altamura"
+          ],
+          "title": "Diritto Dell'Innovazione"
+        },
+        "5": {
+          "people": [
+            "Fabio Altamura"
+          ],
+          "title": "Diritto Dell'Innovazione"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Fabrizio Fezza"
+          ],
+          "title": "Diritto Dell'Innovazione"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Fabio Carlucci"
+          ],
+          "title": "Economia Dell'Innovazione"
+        },
+        "5": {
+          "people": [
+            "Fabio Carlucci"
+          ],
+          "title": "Economia Dell'Innovazione"
+        }
+      }
+    },
+    "Economia - Economia E Finanza (Ef) - 2 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Marco Maria Sorge"
+          ],
+          "title": "Valutazione Economica E Finanziaria Degli Investimenti"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Alessandra Amendola",
+            "Massimiliano Menzietti"
+          ],
+          "title": "Analisi Dei Mercati Finanziari"
+        },
+        "5": {
+          "people": [
+            "Alessandra Amendola",
+            "Massimiliano Menzietti"
+          ],
+          "title": "Analisi Dei Mercati Finanziari"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Alessandra Amendola",
+            "Massimiliano Menzietti"
+          ],
+          "title": "Analisi Dei Mercati Finanziari"
+        },
+        "5": {
+          "people": [
+            "Alessandra Amendola",
+            "Massimiliano Menzietti"
+          ],
+          "title": "Analisi Dei Mercati Finanziari"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Giuseppe Russo"
+          ],
+          "title": "Macroeconomia E Politiche Finanziarie"
+        },
+        "5": {
+          "people": [
+            "Marco Maria Sorge"
+          ],
+          "title": "Valutazione Economica E Finanziaria Degli Investimenti"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Giuseppe Russo"
+          ],
+          "title": "Macroeconomia E Politiche Finanziarie"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Giuseppe Russo"
+          ],
+          "title": "Macroeconomia E Politiche Finanziarie"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Marco Maria Sorge"
+          ],
+          "title": "Valutazione Economica E Finanziaria Degli Investimenti"
+        },
+        "5": {}
+      }
+    },
+    "Economia E Commercio - Economico Finanziario - 1 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Rosa Ferrentino"
+          ],
+          "title": "Matematica Per L'Economia (Matr.Pari)"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Maria Russolillo"
+          ],
+          "title": "Matematica Per L'Economia (Matr.Dispari)"
+        },
+        "5": {
+          "people": [
+            "Biagio Di Salvia"
+          ],
+          "title": "Storia Economica (Matr.Dispari)"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Aldo Montaudo"
+          ],
+          "title": "Storia Economica (Matr.Pari)"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Rosa Ferrentino"
+          ],
+          "title": "Matematica Per L'Economia (Matr.Pari)"
+        },
+        "5": {
+          "people": [
+            "Rosa Ferrentino"
+          ],
+          "title": "Matematica Per L'Economia (Matr.Pari)"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Giuseppe Liccardo"
+          ],
+          "title": "Diritto Privato (Matr.Dispari)"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Biagio Di Salvia"
+          ],
+          "title": "Storia Economica (Matr.Dispari)"
+        },
+        "5": {
+          "people": [
+            "Biagio Di Salvia"
+          ],
+          "title": "Storia Economica (Matr.Dispari)"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Maria Russolillo"
+          ],
+          "title": "Matematica Per L'Economia (Matr.Dispari)"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Giuseppe Liccardo"
+          ],
+          "title": "Diritto Privato (Matr.Dispari)"
+        },
+        "5": {
+          "people": [
+            "Giuseppe Liccardo"
+          ],
+          "title": "Diritto Privato (Matr.Dispari)"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Maria Russolillo"
+          ],
+          "title": "Matematica Per L'Economia (Matr.Dispari)"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Aldo Montaudo"
+          ],
+          "title": "Storia Economica (Matr.Pari)"
+        },
+        "5": {
+          "people": [
+            "Aldo Montaudo"
+          ],
+          "title": "Storia Economica (Matr.Pari)"
+        }
+      }
+    },
+    "Scienze Del Turismo - Comune - 1 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Aldo Montaudo",
+            "Marco Santillo"
+          ],
+          "title": "Storia Economica Del Turismo"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Pasquale Sabatino"
+          ],
+          "title": "Economia Dei Trasporti"
+        },
+        "5": {
+          "people": [
+            "Fabio Carlucci"
+          ],
+          "title": "Economia Del Turismo"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Fabio Carlucci"
+          ],
+          "title": "Economia Del Turismo"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Marco Galdi"
+          ],
+          "title": "Diritto Pubblico Del Turismo"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Pasquale Sabatino"
+          ],
+          "title": "Economia Dei Trasporti"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Aldo Montaudo",
+            "Marco Santillo"
+          ],
+          "title": "Storia Economica Del Turismo"
+        },
+        "5": {
+          "people": [
+            "Aldo Montaudo",
+            "Marco Santillo"
+          ],
+          "title": "Storia Economica Del Turismo"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Marco Galdi"
+          ],
+          "title": "Diritto Pubblico Del Turismo"
+        },
+        "5": {
+          "people": [
+            "Marco Galdi"
+          ],
+          "title": "Diritto Pubblico Del Turismo"
+        }
+      }
+    },
+    "Economia Governo E Amministrazione - Economia E Amministrazione Dell'Ambiente - 2 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Bruna Bruno",
+            "Antonio Abatemarco"
+          ],
+          "title": "Microeconomia Del Settore Pubblico"
+        },
+        "5": {
+          "people": [
+            "Bruna Bruno",
+            "Antonio Abatemarco"
+          ],
+          "title": "Microeconomia Del Settore Pubblico"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Giuseppe Storti",
+            "Antonio Naimoli"
+          ],
+          "title": "Statistica Economica"
+        },
+        "5": {
+          "people": [
+            "Giuseppe Storti",
+            "Antonio Naimoli"
+          ],
+          "title": "Statistica Economica"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Giuseppe Storti",
+            "Antonio Naimoli"
+          ],
+          "title": "Statistica Economica"
+        },
+        "5": {
+          "people": [
+            "Giuseppe Storti",
+            "Antonio Naimoli"
+          ],
+          "title": "Statistica Economica"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Bruna Bruno",
+            "Antonio Abatemarco"
+          ],
+          "title": "Microeconomia Del Settore Pubblico"
+        },
+        "5": {
+          "people": [
+            "Bruna Bruno",
+            "Antonio Abatemarco"
+          ],
+          "title": "Microeconomia Del Settore Pubblico"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Scienze Statistiche Per La Finanza - Risk Analytics - 1 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Marcella Niglio"
+          ],
+          "title": "Inferenza Statistica"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Marilena Sibillo"
+          ],
+          "title": "Matematica Attuariale E Finanza Matematica"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Marcella Niglio"
+          ],
+          "title": "Inferenza Statistica"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Marilena Sibillo"
+          ],
+          "title": "Matematica Attuariale E Finanza Matematica"
+        },
+        "5": {
+          "people": [
+            "Marcella Niglio"
+          ],
+          "title": "Inferenza Statistica"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Marilena Sibillo"
+          ],
+          "title": "Matematica Attuariale E Finanza Matematica"
+        },
+        "5": {}
+      }
+    },
+    "Scienze Statistiche Per La Finanza - Big Data Analytics - 1 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Cira Perna"
+          ],
+          "title": "Analisi Delle Serie Storiche"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Pietro Coretto"
+          ],
+          "title": "Advanced Statistical Learning"
+        },
+        "5": {
+          "people": [
+            "Pietro Coretto"
+          ],
+          "title": "Advanced Statistical Learning"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Marilena Sibillo"
+          ],
+          "title": "Matematica Attuariale E Finanza Matematica"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Cira Perna"
+          ],
+          "title": "Analisi Delle Serie Storiche"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Cira Perna"
+          ],
+          "title": "Analisi Delle Serie Storiche"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Marilena Sibillo"
+          ],
+          "title": "Matematica Attuariale E Finanza Matematica"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Marilena Sibillo"
+          ],
+          "title": "Matematica Attuariale E Finanza Matematica"
+        },
+        "5": {}
+      }
+    },
+    "Scienze Dell'Amministrazione E Dell'Organizzazione - Comune - 2 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Marisa Faggini",
+            "Luigi Aldieri"
+          ],
+          "title": "Macroeconomia E Politica Economica"
+        },
+        "5": {
+          "people": [
+            "Marisa Faggini",
+            "Luigi Aldieri"
+          ],
+          "title": "Macroeconomia E Politica Economica"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Antonio Martone"
+          ],
+          "title": "Storia Delle Dottrine Politiche"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Vincenzo Candila"
+          ],
+          "title": "Statistica"
+        },
+        "5": {
+          "people": [
+            "Vincenzo Candila"
+          ],
+          "title": "Statistica"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Antonio Martone"
+          ],
+          "title": "Storia Delle Dottrine Politiche"
+        },
+        "5": {
+          "people": [
+            "Vincenzo Candila"
+          ],
+          "title": "Statistica"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Vincenzo Candila"
+          ],
+          "title": "Statistica"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Marisa Faggini",
+            "Luigi Aldieri"
+          ],
+          "title": "Macroeconomia E Politica Economica"
+        },
+        "5": {
+          "people": [
+            "Marisa Faggini",
+            "Luigi Aldieri"
+          ],
+          "title": "Macroeconomia E Politica Economica"
+        }
+      }
+    },
+    "Economia E Commercio - Economico Finanziario - 3 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Maria Russolillo"
+          ],
+          "title": "Scelte E Investimenti Finanziari"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Rosaria Cerrone"
+          ],
+          "title": "Economia Degli Intermediari Finanziari"
+        },
+        "5": {
+          "people": [
+            "Marco Maria Sorge"
+          ],
+          "title": "Politica Economica E Finanziaria"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Maria Russolillo"
+          ],
+          "title": "Scelte E Investimenti Finanziari"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Rosaria Cerrone"
+          ],
+          "title": "Economia Degli Intermediari Finanziari"
+        },
+        "5": {
+          "people": [
+            "Marco Maria Sorge"
+          ],
+          "title": "Politica Economica E Finanziaria"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Rosaria Cerrone"
+          ],
+          "title": "Economia Degli Intermediari Finanziari"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Maria Lucia Parrella"
+          ],
+          "title": "Metodi Statistici Per L'Economia"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Marco Maria Sorge"
+          ],
+          "title": "Politica Economica E Finanziaria"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Maria Lucia Parrella"
+          ],
+          "title": "Metodi Statistici Per L'Economia"
+        },
+        "5": {
+          "people": [
+            "Maria Lucia Parrella"
+          ],
+          "title": "Metodi Statistici Per L'Economia"
+        }
+      }
+    },
+    "Statistica Per I Big Data - Comune - 2 Anno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "people": [
+            "Luigi Senatore"
+          ],
+          "title": "Economia E Politica Industriale"
+        },
+        "3": {},
+        "4": {
+          "people": [
+            "Cira Perna"
+          ],
+          "title": "Inferenza Statistica"
+        },
+        "5": {
+          "people": [
+            "Cira Perna"
+          ],
+          "title": "Inferenza Statistica"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Carlo Blundo"
+          ],
+          "title": "Algoritmi E Strutture Dati"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Carlo Blundo"
+          ],
+          "title": "Algoritmi E Strutture Dati"
+        },
+        "5": {
+          "people": [
+            "Carlo Blundo"
+          ],
+          "title": "Algoritmi E Strutture Dati"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Cira Perna"
+          ],
+          "title": "Inferenza Statistica"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "people": [
+            "Luigi Senatore"
+          ],
+          "title": "Economia E Politica Industriale"
+        },
+        "5": {
+          "people": [
+            "Luigi Senatore"
+          ],
+          "title": "Economia E Politica Industriale"
+        }
+      }
+    }
+  },
+  "teacher_view": {
+    "Pietro Coretto": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Advanced Statistical Learning"
+        },
+        "5": {
+          "title": "Advanced Statistical Learning"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Statistical Learning"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {
+          "title": "Statistical Learning"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Statistical Learning"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Michele La Rocca": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Metodi Statistici Per I Big Data"
+        },
+        "5": {
+          "title": "Metodi Statistici Per I Big Data"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Advanced Statistical Modelling For Big Data"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Advanced Statistical Modelling For Big Data"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Advanced Statistical Modelling For Big Data"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Carlo Blundo": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Algoritmi E Strutture Dati"
+        },
+        "5": {
+          "title": "Programmazione"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Algoritmi E Strutture Dati"
+        },
+        "5": {
+          "title": "Algoritmi E Strutture Dati"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Programmazione"
+        },
+        "5": {
+          "title": "Programmazione"
+        }
+      }
+    },
+    "Alessandra Amendola": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Analisi Dei Mercati Finanziari"
+        },
+        "5": {
+          "title": "Analisi Dei Mercati Finanziari"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Statistica (Matr.Pari)"
+        },
+        "3": {},
+        "4": {
+          "title": "Analisi Dei Mercati Finanziari"
+        },
+        "5": {
+          "title": "Analisi Dei Mercati Finanziari"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {
+          "title": "Statistica (Matr.Pari)"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {
+          "title": "Statistica (Matr.Pari)"
+        }
+      }
+    },
+    "Massimiliano Menzietti": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Analisi Dei Mercati Finanziari"
+        },
+        "5": {
+          "title": "Analisi Dei Mercati Finanziari"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Analisi Dei Mercati Finanziari"
+        },
+        "5": {
+          "title": "Analisi Dei Mercati Finanziari"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Matematica Per Le Imprese Turistiche"
+        },
+        "5": {
+          "title": "Matematica Per Le Imprese Turistiche"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Cira Perna": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Analisi Delle Serie Storiche"
+        },
+        "3": {},
+        "4": {
+          "title": "Inferenza Statistica"
+        },
+        "5": {
+          "title": "Inferenza Statistica"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Analisi Delle Serie Storiche"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Analisi Delle Serie Storiche"
+        },
+        "3": {},
+        "4": {
+          "title": "Inferenza Statistica"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Paolo Vinci": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Modelli Di Politica Economica"
+        },
+        "5": {
+          "title": "Modelli Di Politica Economica"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Modelli Di Politica Economica"
+        },
+        "5": {
+          "title": "Modelli Di Politica Economica"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Analisi Economica"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {
+          "title": "Analisi Economica"
+        }
+      }
+    },
+    "Sara Milito": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Analisi Quantitativa Del Rischio Finanziario"
+        },
+        "5": {
+          "title": "Analisi Quantitativa Del Rischio Finanziario"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Analisi Quantitativa Del Rischio Finanziario"
+        },
+        "5": {}
+      }
+    },
+    "Maria Russolillo": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Scelte E Investimenti Finanziari"
+        },
+        "3": {},
+        "4": {
+          "title": "Matematica Per L'Economia (Matr.Dispari)"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Scelte E Investimenti Finanziari"
+        },
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Matematica Per L'Economia (Matr.Dispari)"
+        },
+        "3": {},
+        "4": {
+          "title": "Analisi Quantitativa Del Rischio Finanziario"
+        },
+        "5": {
+          "title": "Analisi Quantitativa Del Rischio Finanziario"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Matematica Per L'Economia (Matr.Dispari)"
+        },
+        "3": {},
+        "4": {
+          "title": "Analisi Quantitativa Del Rischio Finanziario"
+        },
+        "5": {}
+      }
+    },
+    "Roberto Tagliaferri": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Architetture Per I Big Data"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Architetture Per I Big Data"
+        },
+        "5": {}
+      }
+    },
+    "Marco Bisogno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Ragioneria Generale E Applicata"
+        },
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Bilanci E Comunicazione Economico Finanziaria"
+        },
+        "5": {
+          "title": "Bilanci E Comunicazione Economico Finanziaria"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Bilanci E Comunicazione Economico Finanziaria"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Ragioneria Generale E Applicata"
+        },
+        "5": {
+          "title": "Ragioneria Generale E Applicata"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Luigi Senatore": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Economia E Politica Industriale"
+        },
+        "3": {},
+        "4": {
+          "title": "Cattedra Antonio Genovesi Di Economia Civile"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Cattedra Antonio Genovesi Di Economia Civile"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Economia E Politica Industriale"
+        },
+        "5": {
+          "title": "Economia E Politica Industriale"
+        }
+      }
+    },
+    "Marcello D'Ambrosio": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Contratti Bancari E Assicurativi"
+        },
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Contratti Bancari E Assicurativi"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Contratti Bancari E Assicurativi"
+        },
+        "5": {}
+      }
+    },
+    "Giuseppe Liccardo": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Contratti Bancari E Assicurativi"
+        },
+        "3": {},
+        "4": {
+          "title": "Diritto Privato Del Turismo"
+        },
+        "5": {
+          "title": "Diritto Privato Del Turismo"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Diritto Privato (Matr.Dispari)"
+        },
+        "3": {},
+        "4": {
+          "title": "Contratti Bancari E Assicurativi"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Diritto Privato (Matr.Dispari)"
+        },
+        "5": {
+          "title": "Diritto Privato (Matr.Dispari)"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Contratti Bancari E Assicurativi"
+        },
+        "5": {
+          "title": "Diritto Privato Del Turismo"
+        }
+      }
+    },
+    "Giuseppe Garofalo": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Contratti D' Impresa"
+        },
+        "5": {
+          "title": "Contratti D' Impresa"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Giancarlo Sorrentino": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Diritto Amministrativo"
+        },
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Diritto Amministrativo"
+        },
+        "5": {
+          "title": "Diritto Amministrativo"
+        }
+      }
+    },
+    "Mario Quaranta": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Diritto Del Lavoro"
+        },
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Diritto Del Lavoro"
+        },
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Diritto Del Lavoro"
+        },
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Vincenzo Luciani": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Diritto Del Lavoro Pubblico"
+        },
+        "5": {
+          "title": "Diritto Del Lavoro Pubblico"
+        }
+      }
+    },
+    "Fabio Altamura": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Laboratorio Di Impresa"
+        },
+        "5": {
+          "title": "Laboratorio Di Impresa"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Diritto Dell'Innovazione"
+        },
+        "3": {},
+        "4": {
+          "title": "Laboratorio Di Impresa"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Diritto Dell'Innovazione"
+        },
+        "5": {
+          "title": "Diritto Dell'Innovazione"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Diritto Dell'Innovazione"
+        },
+        "5": {
+          "title": "Diritto Dell'Innovazione"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Fabrizio Fezza": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {
+          "title": "Diritto Dell'Innovazione"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {
+          "title": "Diritto Dell'Innovazione"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Diritto Dell'Innovazione"
+        },
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Emanuele Indraccolo": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Diritto Europeo Dei Contratti"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Diritto Europeo Dei Contratti"
+        },
+        "5": {
+          "title": "Diritto Europeo Dei Contratti"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Serena Serravalle": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Diritto Privato Del Turismo"
+        },
+        "5": {
+          "title": "Diritto Privato Del Turismo"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {
+          "title": "Diritto Privato Del Turismo"
+        }
+      }
+    },
+    "Marco Galdi": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Diritto Pubblico"
+        },
+        "5": {
+          "title": "Diritto Pubblico"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Diritto Pubblico Del Turismo"
+        },
+        "3": {},
+        "4": {
+          "title": "Diritto Pubblico"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Diritto Pubblico Del Turismo"
+        },
+        "5": {
+          "title": "Diritto Pubblico Del Turismo"
+        }
+      }
+    },
+    "Anna Fortunato": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Istituzioni Di Diritto Pubblico"
+        },
+        "5": {
+          "title": "Istituzioni Di Diritto Pubblico"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Diritto Regionale E Degli Enti Locali"
+        },
+        "5": {
+          "title": "Diritto Regionale E Degli Enti Locali"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Istituzioni Di Diritto Pubblico"
+        },
+        "5": {
+          "title": "Istituzioni Di Diritto Pubblico"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Menita Giusy De Flora": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Diritto Tributario D'Impresa E Processuale"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Diritto Tributario Internazionale"
+        },
+        "5": {
+          "title": "Diritto Tributario Internazionale"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Diritto Tributario D'Impresa E Processuale"
+        },
+        "5": {
+          "title": "Diritto Tributario D'Impresa E Processuale"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Diritto Tributario D'Impresa E Processuale"
+        },
+        "5": {}
+      }
+    },
+    "Fausto Galli": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Econometria"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Econometria"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Econometria"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Francesca Citro": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {
+          "title": "Ragioneria Generale E Applicata"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Economia Aziendale"
+        },
+        "5": {
+          "title": "Economia Aziendale"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Ragioneria Generale E Applicata"
+        },
+        "5": {
+          "title": "Economia Aziendale"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Ragioneria Generale E Applicata"
+        },
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Marisa Faggini": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Macroeconomia E Politica Economica"
+        },
+        "5": {
+          "title": "Macroeconomia E Politica Economica"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Economia Circolare E Politiche Ambientali"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Economia Circolare E Politiche Ambientali"
+        },
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Macroeconomia E Politica Economica"
+        },
+        "5": {
+          "title": "Macroeconomia E Politica Economica"
+        }
+      }
+    },
+    "Rosaria Cerrone": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Economia Degli Intermediari Finanziari"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Economia Degli Intermediari Finanziari"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Economia Degli Intermediari Finanziari"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Bruna Bruno": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Microeconomia Del Settore Pubblico"
+        },
+        "5": {
+          "title": "Microeconomia Del Settore Pubblico"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Economia Dei Servizi Pubblici"
+        },
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Microeconomia Del Settore Pubblico"
+        },
+        "5": {
+          "title": "Microeconomia Del Settore Pubblico"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Economia Dei Servizi Pubblici"
+        },
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Giuseppina Autiero": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Macroeconomia (Matr. Dispari)"
+        },
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Economia Dei Servizi Pubblici"
+        },
+        "3": {},
+        "4": {
+          "title": "Macroeconomia (Matr. Dispari)"
+        },
+        "5": {
+          "title": "Macroeconomia (Matr. Dispari)"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Economia Dei Servizi Pubblici"
+        },
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Pasquale Sabatino": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Economia Dei Trasporti"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Economia Dei Trasporti"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Fabio Carlucci": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Economia Delle Reti"
+        },
+        "3": {},
+        "4": {
+          "title": "Economia Dell'Innovazione"
+        },
+        "5": {
+          "title": "Economia Del Turismo"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Economia Del Turismo"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Economia Delle Reti"
+        },
+        "5": {
+          "title": "Economia Delle Reti"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Economia Dell'Innovazione"
+        },
+        "5": {
+          "title": "Economia Dell'Innovazione"
+        }
+      }
+    },
+    "Barbara Trincone": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Economia Delle Reti"
+        },
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Economia Delle Reti"
+        },
+        "5": {
+          "title": "Economia Delle Reti"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Armando Papa": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "International Marketing"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "International Marketing"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Economia E Gestione Delle Imprese"
+        },
+        "3": {},
+        "4": {
+          "title": "International Marketing"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Economia E Gestione Delle Imprese"
+        },
+        "5": {
+          "title": "Economia E Gestione Delle Imprese"
+        }
+      }
+    },
+    "Luca Sensini": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Economia E Management Aziendale"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Economia E Management Aziendale"
+        },
+        "5": {
+          "title": "Economia E Management Aziendale"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Mario Testa": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Economia E Management Aziendale"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Economia E Management Aziendale"
+        },
+        "5": {
+          "title": "Economia E Management Aziendale"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Adriana Barone": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Economia E Politica Internazionale"
+        },
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Economia E Politica Internazionale"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Economia E Politica Internazionale"
+        },
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Economia, Impresa E Ambiente"
+        },
+        "5": {
+          "title": "Economia, Impresa E Ambiente"
+        }
+      }
+    },
+    "Maria Grazia Romano": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Economia Internazionale"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Economia Internazionale"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Economia Internazionale"
+        },
+        "5": {}
+      }
+    },
+    "Ernesto De Nito": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Economia, Organizzazione E Management"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Economia, Organizzazione E Management"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Organizzazione E Gestione Delle Risorse Umane"
+        },
+        "5": {
+          "title": "Organizzazione E Gestione Delle Risorse Umane"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Emiliano Mastrolia": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Finanza Aziendale"
+        },
+        "5": {
+          "title": "Finanza Aziendale"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Finanza Aziendale"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Gerardino Metallo": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Gestione Delle Aziende E Dei Sistemi Territoriali Turistici"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Marketing"
+        },
+        "5": {
+          "title": "Marketing"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Gestione Delle Aziende E Dei Sistemi Territoriali Turistici"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Marcella Niglio": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Inferenza Statistica"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Inferenza Statistica"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {
+          "title": "Inferenza Statistica"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Sacha Anthony Berardo": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Lingua E Linguistica Inglese I"
+        },
+        "3": {},
+        "4": {
+          "title": "Inglese Per Il Turismo"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Inglese Per Il Turismo"
+        },
+        "5": {
+          "title": "Lingua E Linguistica Inglese I"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Inglese Per Il Turismo"
+        },
+        "5": {}
+      }
+    },
+    "Giovanni Agrusti": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Laboratorio Di Diritto Dei Contratti D'Impresa"
+        },
+        "5": {
+          "title": "Laboratorio Di Diritto Dei Contratti D'Impresa"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Mario Di Serio": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Laboratorio Di Impresa"
+        },
+        "5": {
+          "title": "Laboratorio Di Impresa"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Laboratorio Di Impresa"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Pietro Paolo Mauro": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Laboratorio Di Internazionalizzazione Delle Imprese"
+        },
+        "5": {
+          "title": "Laboratorio Di Internazionalizzazione Delle Imprese"
+        }
+      }
+    },
+    "Giuseppe Russo": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Macroeconomia (Matr.Pari)"
+        },
+        "5": {
+          "title": "Macroeconomia (Matr.Pari)"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Macroeconomia E Politiche Finanziarie"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Macroeconomia E Politiche Finanziarie"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Macroeconomia E Politiche Finanziarie"
+        },
+        "3": {},
+        "4": {
+          "title": "Macroeconomia (Matr.Pari)"
+        },
+        "5": {}
+      }
+    },
+    "Luigi Aldieri": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Macroeconomia E Politica Economica"
+        },
+        "5": {
+          "title": "Macroeconomia E Politica Economica"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Macroeconomia E Politica Economica"
+        },
+        "5": {
+          "title": "Macroeconomia E Politica Economica"
+        }
+      }
+    },
+    "Marilena Sibillo": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Matematica Attuariale E Finanza Matematica"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Matematica Attuariale E Finanza Matematica"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Matematica Attuariale E Finanza Matematica"
+        },
+        "5": {}
+      }
+    },
+    "Giovanna Bimonte": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Matematica Generale"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Matematica Generale"
+        },
+        "5": {
+          "title": "Matematica Generale"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Rosa Ferrentino": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Matematica Per L'Economia (Matr.Pari)"
+        },
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Matematica Per L'Economia (Matr.Pari)"
+        },
+        "5": {
+          "title": "Matematica Per L'Economia (Matr.Pari)"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Francesco Ciardiello": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Matematica Per L'Economia (Matr.Dispari)"
+        },
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Matematica Per L'Economia (Matr.Dispari)"
+        },
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Matematica Per L'Economia (Matr.Dispari)"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Maria Lucia Parrella": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Statistica (Matr.Dispari)"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Statistica (Matr.Dispari)"
+        },
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Statistica (Matr.Dispari)"
+        },
+        "3": {},
+        "4": {
+          "title": "Metodi Statistici Per L'Economia"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Metodi Statistici Per L'Economia"
+        },
+        "5": {
+          "title": "Metodi Statistici Per L'Economia"
+        }
+      }
+    },
+    "Antonio Abatemarco": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Microeconomia Del Settore Pubblico"
+        },
+        "5": {
+          "title": "Microeconomia Del Settore Pubblico"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Microeconomia Del Settore Pubblico"
+        },
+        "5": {
+          "title": "Microeconomia Del Settore Pubblico"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Giuseppe Storti": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Modelli Statistici Per Il Risk Management"
+        },
+        "5": {
+          "title": "Modelli Statistici Per Il Risk Management"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Modelli Statistici Per Il Risk Management"
+        },
+        "3": {},
+        "4": {
+          "title": "Statistica Economica"
+        },
+        "5": {
+          "title": "Statistica Economica"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Statistica Economica"
+        },
+        "5": {
+          "title": "Statistica Economica"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Antonio D'Amato": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Pianificazione Aziendale E Decisioni D'Investimento"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Pianificazione Aziendale E Decisioni D'Investimento"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Pianificazione Aziendale E Decisioni D'Investimento"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Marco Maria Sorge": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Valutazione Economica E Finanziaria Degli Investimenti"
+        },
+        "3": {},
+        "4": {},
+        "5": {
+          "title": "Politica Economica E Finanziaria"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {
+          "title": "Politica Economica E Finanziaria"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {
+          "title": "Valutazione Economica E Finanziaria Degli Investimenti"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Politica Economica E Finanziaria"
+        },
+        "3": {},
+        "4": {
+          "title": "Valutazione Economica E Finanziaria Degli Investimenti"
+        },
+        "5": {}
+      }
+    },
+    "Francesco Giordano": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Processi Stocastici"
+        },
+        "3": {},
+        "4": {
+          "title": "Statistica (Matr.Dispari)"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Statistica Per L'Impresa E L'Innovazione"
+        },
+        "5": {
+          "title": "Processi Stocastici"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Statistica Per L'Impresa E L'Innovazione"
+        },
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Statistica Per L'Impresa E L'Innovazione"
+        },
+        "3": {},
+        "4": {
+          "title": "Statistica (Matr.Dispari)"
+        },
+        "5": {
+          "title": "Statistica (Matr.Dispari)"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Paolo Minasi": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {
+          "title": "Ragioneria Generale E Applicata"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Ragioneria Generale E Applicata"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Ragioneria Generale E Applicata"
+        },
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Gennaro Avallone": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Sociologia Del Territorio"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Sociologia Del Territorio"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Sociologia Del Territorio"
+        },
+        "5": {}
+      }
+    },
+    "Vincenzo Candila": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Statistica Per L'Impresa"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Statistica"
+        },
+        "5": {
+          "title": "Statistica"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {
+          "title": "Statistica"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Statistica"
+        },
+        "3": {},
+        "4": {
+          "title": "Statistica Per L'Impresa"
+        },
+        "5": {
+          "title": "Statistica Per L'Impresa"
+        }
+      }
+    },
+    "Antonio Naimoli": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Statistica Economica"
+        },
+        "5": {
+          "title": "Statistica Economica"
+        }
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Statistica Economica"
+        },
+        "5": {
+          "title": "Statistica Economica"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Biagio Di Salvia": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {
+          "title": "Storia Economica (Matr.Dispari)"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Storia Dei Processi Socio-Economici Contemporanei"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Storia Economica (Matr.Dispari)"
+        },
+        "5": {
+          "title": "Storia Economica (Matr.Dispari)"
+        }
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Storia Dei Processi Socio-Economici Contemporanei"
+        },
+        "5": {}
+      }
+    },
+    "Antonio Martone": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Storia Delle Dottrine Politiche"
+        },
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Storia Delle Dottrine Politiche"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    },
+    "Aldo Montaudo": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Storia Economica Del Turismo"
+        },
+        "3": {},
+        "4": {
+          "title": "Storia Economica (Matr.Dispari)"
+        },
+        "5": {
+          "title": "Storia Economica (Matr.Dispari)"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Storia Economica (Matr.Pari)"
+        },
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Storia Economica Del Turismo"
+        },
+        "5": {
+          "title": "Storia Economica Del Turismo"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Storia Economica (Matr.Dispari)"
+        },
+        "3": {},
+        "4": {
+          "title": "Storia Economica (Matr.Pari)"
+        },
+        "5": {
+          "title": "Storia Economica (Matr.Pari)"
+        }
+      }
+    },
+    "Marco Santillo": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Storia Economica Del Turismo"
+        },
+        "3": {},
+        "4": {
+          "title": "Storia Economica (Matr.Dispari)"
+        },
+        "5": {
+          "title": "Storia Economica (Matr.Dispari)"
+        }
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Storia Economica (Matr.Pari)"
+        },
+        "3": {},
+        "4": {
+          "title": "Storia Economica Del Turismo"
+        },
+        "5": {
+          "title": "Storia Economica Del Turismo"
+        }
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {
+          "title": "Storia Economica (Matr.Dispari)"
+        },
+        "3": {},
+        "4": {
+          "title": "Storia Economica (Matr.Pari)"
+        },
+        "5": {
+          "title": "Storia Economica (Matr.Pari)"
+        }
+      }
+    },
+    "Rosa Maria Caprino": {
+      "Monday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Tecnica Del Commercio Estero E Marketing Internazionale"
+        },
+        "5": {}
+      },
+      "Tuesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "Wednesday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Tecnica Del Commercio Estero E Marketing Internazionale"
+        },
+        "5": {}
+      },
+      "Thursday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {
+          "title": "Tecnica Del Commercio Estero E Marketing Internazionale"
+        },
+        "5": {}
+      },
+      "Friday": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    }
+  }
+}
