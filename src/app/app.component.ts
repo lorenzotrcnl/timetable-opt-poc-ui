@@ -47,6 +47,7 @@ export class AppComponent implements OnInit {
       this.selectedTeacher = this.teachers[0]
       this.classes = data.classes;
       this.selectedClass = this.classes[0]
+      this.changeToggle();
     });
 
     this.dataService.getDataFromJSON('assets/scenario_filters.json').subscribe(data => {
@@ -111,6 +112,15 @@ export class AppComponent implements OnInit {
     this.selectedClass = c;
     this.searchText = c;
     this.filteredClasses = [];
+  }
+
+  changeToggle(){
+    if(this.showClassesDropdown){
+      this.searchText=this.classes[0]
+    }
+    else{
+      this.searchText=this.teachers[0]
+    }
   }
 
   handleFilterChange(event: { abbreviation: string, value: any }) {

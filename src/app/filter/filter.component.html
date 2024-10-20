@@ -1,6 +1,6 @@
 <div *ngFor="let oneFilter of allFilters">
     <div *ngIf="oneFilter.accordion" class="collapse collapse-arrow">
-        <input type="checkbox" name="accordion-group" [attr.id]="oneFilter.accordion.name" />
+        <input type="checkbox" name="accordion-group" [attr.id]="oneFilter.accordion.name" checked/>
         <div class="collapse-title text-xl font-medium">{{ oneFilter.accordion.name }}</div>
         <div class="collapse-content">
             <div *ngFor="let filter of oneFilter.accordion.filters">
