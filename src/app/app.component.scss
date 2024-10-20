@@ -97,7 +97,8 @@
 }
 
 .visualization.expanded {
-  width: 100vh; /* Occupa l'intera larghezza quando il menu è chiuso */
+  width: max-content;
+  margin-left: -25%;
 }
 
 .results-list {
@@ -132,7 +133,6 @@
 .timetable-container {
   display: flex;
   justify-content: center;
-  align-items: center;
   height: 100vh;
   padding-left: 5%;
   padding-right: 5%;
