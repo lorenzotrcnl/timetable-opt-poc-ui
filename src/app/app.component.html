@@ -29,20 +29,7 @@
       <h2 class="text-classes">Classes</h2>
     </div>
 
-    <div class="collapse collapse-arrow">
-      <input type="radio" name="my-accordion-2" checked="checked" />
-      <div class="collapse-title text-xl font-medium">Preferenza slot</div>
-      <div class="collapse-content">
-        Ciao
-      </div>
-    </div>
-    <div class="collapse collapse-arrow">
-      <input type="radio" name="my-accordion-2" />
-      <div class="collapse-title text-xl font-medium">Altre opzioni</div>
-      <div class="collapse-content">
-        <p>Altre options</p>
-      </div>
-    </div>
+    <app-filter [allFilters]="allFilters" (filterChange)="handleFilterChange($event)"></app-filter>
 
   </div>
 

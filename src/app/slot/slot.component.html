@@ -1,5 +1,6 @@
 <div class="button-group">
-  <button class="buttonGreen" [ngClass]="{'selectedGreen': valueSlot === 'Low', 'transparent': valueSlot !== 'Low'}" (click)="selectSlotPreferences('Low')">Low</button>
-  <button class="buttonYellow" [ngClass]="{'selectedYellow': valueSlot === 'Mid', 'transparent': valueSlot !== 'Mid'}" (click)="selectSlotPreferences('Mid')">Mid</button>
-  <button class="buttonRed" [ngClass]="{'selectedRed': valueSlot === 'High', 'transparent': valueSlot !== 'High'}" (click)="selectSlotPreferences('High')">High</button>
+  <button class="button buttonGreen" [ngClass]="{'selected': valueSlot === 'Low'}" (click)="selectSlotPreferences('Low')"></button>
+  <button class="button buttonYellow" [ngClass]="{'selected': valueSlot === 'Mid'}" (click)="selectSlotPreferences('Mid')"></button>
+  <button class="button buttonRed" [ngClass]="{'selected': valueSlot === 'High'}" (click)="selectSlotPreferences('High')"></button>
+  <div class="triangle" [ngClass]="{'triangleLow': valueSlot === 'Low', 'triangleMid': valueSlot === 'Mid', 'triangleHigh': valueSlot === 'High'}"></div>
 </div>

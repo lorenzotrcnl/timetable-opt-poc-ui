@@ -1,0 +1,22 @@
+<div *ngFor="let oneFilter of allFilters">
+    <div *ngIf="oneFilter.accordion" class="collapse collapse-arrow">
+        <input type="checkbox" name="accordion-group" [attr.id]="oneFilter.accordion.name" />
+        <div class="collapse-title text-xl font-medium">{{ oneFilter.accordion.name }}</div>
+        <div class="collapse-content">
+            <div *ngFor="let filter of oneFilter.accordion.filters">
+                <div *ngIf="filter.type === 'levels'" class="levels-container">
+                    <label class="levels-label">{{ filter.label }}</label>
+                    <app-slot (valueSlotChange)="updateFilterValue(filter.abbreviation, $event)" class="slot-container"></app-slot>
+                </div>
+                <div *ngIf="filter.type === 'counter'" class="counter-container">
+                    <label>{{ filter.label }}</label>
+                    <div class="counter-input-container">
+                        <button type="button" (click)="decreaseValue(filter)">-</button>
+                        <input type="number" [min]="filter.min" [max]="filter.max" [(ngModel)]="filter.value" (change)="updateFilterValue(filter.abbreviation, filter.value)" />
+                        <button type="button" (click)="increaseValue(filter)">+</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

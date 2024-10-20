@@ -1,0 +1,55 @@
+.levels-container {
+    display: flex;
+    justify-content: space-between; /* Assicura la separazione tra label e slot */
+    margin-top: 3%;
+    margin-bottom: 3%;
+    height: 50px;
+}
+
+.levels-label {
+    margin-right: auto; /* Allinea la label a sinistra */
+    align-content: center;
+}
+
+.slot-container {
+    display: flex;
+    align-items: center;
+    justify-content: end; /* Allinea il componente slot a destra */
+    margin-right: 5%;
+}
+
+.counter-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+.counter-input-container {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+
+.counter-input-container button {
+  background-color: transparent; /* Rimuove lo sfondo */
+  border: none; /* Rimuove il bordo */
+  padding: 0 10px; /* Spazio interno */
+  cursor: pointer;
+  font-size: 18px; /* Aggiusta dimensione del testo */
+}
+
+.counter-input-container input {
+  text-align: center;
+  border: none; /* Rimuove il bordo */
+  background: none; /* Rimuove lo sfondo */
+  width: 20%; /* Dimensione fissa dell'input */
+  -moz-appearance: textfield; /* Rimuove le frecce in Firefox */
+}
+
+.counter-input-container input::-webkit-outer-spin-button,
+.counter-input-container input::-webkit-inner-spin-button {
+  -webkit-appearance: none; /* Rimuove le frecce in Chrome */
+  margin: 0;
+}

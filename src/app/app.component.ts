@@ -6,11 +6,12 @@ import { RouterOutlet } from '@angular/router';
 
 import { SlotComponent } from './slot/slot.component';
 import { DataJsonService } from './services/data-json.service';
+import { FilterComponent } from './filter/filter.component';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, CommonModule, HttpClientModule, FormsModule, SlotComponent],
+  imports: [RouterOutlet, CommonModule, HttpClientModule, FormsModule, FilterComponent],
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })
@@ -33,6 +34,8 @@ export class AppComponent implements OnInit {
 
   isMenuClosed: boolean = false;
 
+  allFilters: any[] = [];
+
   // Constructor
   constructor(private dataService: DataJsonService) {}
 
@@ -44,6 +47,10 @@ export class AppComponent implements OnInit {
       this.selectedTeacher = this.teachers[0]
       this.classes = data.classes;
       this.selectedClass = this.classes[0]
+    });
+
+    this.dataService.getDataFromJSON('assets/scenario_filters.json').subscribe(data => {
+      this.allFilters = data;
     });
 
     this.loadTimetableData();
@@ -90,7 +97,7 @@ export class AppComponent implements OnInit {
 
   selectTeacher(teacher: string) {
     this.selectedTeacher = teacher;
-    this.searchText = '';
+    this.searchText = teacher;
     this.filteredTeachers = [];
   }
 
@@ -102,8 +109,13 @@ export class AppComponent implements OnInit {
 
   selectClass(c: string) {
     this.selectedClass = c;
-    this.searchText = '';
+    this.searchText = c;
     this.filteredClasses = [];
+  }
+
+  handleFilterChange(event: { abbreviation: string, value: any }) {
+    console.log('Filter changed:', event.abbreviation, event.value);
+    
   }
 
 }

@@ -1,0 +1,122 @@
+[
+  {
+    "accordion": {
+      "name": "Preferenza Slot",
+      "filters": [
+        {
+          "type": "levels",
+          "label": "8:30 - 10:10",
+          "abbreviation": "0",
+          "options": [
+            "0",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "type": "levels",
+          "label": "10:10 - 11:50",
+          "abbreviation": "1",
+          "options": [
+            "0",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "type": "levels",
+          "label": "11:50 - 13:30",
+          "abbreviation": "2",
+          "options": [
+            "0",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "type": "levels",
+          "label": "13:30 - 15:10",
+          "abbreviation": "3",
+          "options": [
+            "0",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "type": "levels",
+          "label": "15:10 - 16:50",
+          "abbreviation": "4",
+          "options": [
+            "0",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "type": "levels",
+          "label": "16:50 - 18:30",
+          "abbreviation": "5",
+          "options": [
+            "0",
+            "1",
+            "2"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "accordion": {
+      "name": "Altre opzioni",
+      "filters": [
+        {
+          "type": "counter",
+          "label": "Min giorni liberi insegnante",
+          "abbreviation": "mI",
+          "property": "min_free_days_teacher",
+          "min": 0,
+          "max": 4
+        },
+        {
+          "type": "counter",
+          "label": "Min giorni liberi CdL",
+          "abbreviation": "mC",
+          "property": "min_free_days_class",
+          "min": 0,
+          "max": 3
+        },
+        {
+          "type": "counter",
+          "label": "Max slot per corso",
+          "abbreviation": "MC",
+          "property": "max_slot_course",
+          "min": 1,
+          "max": 3
+        },
+        {
+          "type": "counter",
+          "label": "Max slot per giorno",
+          "abbreviation": "MD",
+          "property": "max_slot_day",
+          "min": 2,
+          "max": 5
+        }
+      ]
+    }
+  },
+  {
+    "defaultSettings": {
+      "0": "0",
+      "1": "0",
+      "2": "0",
+      "3": "0",
+      "4": "0",
+      "5": "0",
+      "mI": 0,
+      "mC": 0,
+      "MC": 2,
+      "MD": 4
+    }
+  }
+]
