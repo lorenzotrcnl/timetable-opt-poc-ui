@@ -76,7 +76,8 @@
           "abbreviation": "mI",
           "property": "min_free_days_teacher",
           "min": 0,
-          "max": 4
+          "max": 4,
+          "index": true
         },
         {
           "type": "counter",
@@ -84,7 +85,8 @@
           "abbreviation": "mC",
           "property": "min_free_days_class",
           "min": 0,
-          "max": 3
+          "max": 3,
+          "index": true
         },
         {
           "type": "counter",
@@ -92,7 +94,8 @@
           "abbreviation": "MC",
           "property": "max_slot_course",
           "min": 1,
-          "max": 3
+          "max": 3,
+          "index": true
         },
         {
           "type": "counter",
@@ -100,7 +103,8 @@
           "abbreviation": "MD",
           "property": "max_slot_day",
           "min": 2,
-          "max": 5
+          "max": 5,
+          "index": true
         }
       ]
     }
