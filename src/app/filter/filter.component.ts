@@ -39,15 +39,6 @@ export class FilterComponent implements OnInit, OnChanges{
 
   updateFilterValue(abbreviation: string, value: any) {
     this.filterChange.emit({ abbreviation, value });
-    this.allFilters.forEach(accordion => {
-      if(accordion.accordion){
-        accordion.accordion.filters.forEach(filter => {
-          if (filter.abbreviation === abbreviation) {
-            filter.value = value;
-          }
-        });
-      }
-    });
   }
 
   increaseValue(filter: any) {

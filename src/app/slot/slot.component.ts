@@ -9,11 +9,11 @@ import { Component, EventEmitter, Output } from '@angular/core';
   styleUrls: ['./slot.component.scss']
 })
 export class SlotComponent {
-  valueSlot: string = 'Low';
+  valueSlot: number = 0;
 
-  @Output() valueSlotChange = new EventEmitter<string>();
+  @Output() valueSlotChange = new EventEmitter<number>();
 
-  selectSlotPreferences(value: string) {
+  selectSlotPreferences(value: number) {
     this.valueSlot = value;
     this.valueSlotChange.emit(this.valueSlot);
   }

@@ -1,5 +1,5 @@
 import { CommonModule } from '@angular/common';
-import { Component, OnInit } from '@angular/core';
+import { Component, OnChanges, OnInit } from '@angular/core';
 import { HttpClientModule } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
 import { RouterOutlet } from '@angular/router';
@@ -7,6 +7,7 @@ import { RouterOutlet } from '@angular/router';
 import { SlotComponent } from './slot/slot.component';
 import { DataJsonService } from './services/data-json.service';
 import { FilterComponent } from './filter/filter.component';
+import { forkJoin } from 'rxjs';
 
 @Component({
   selector: 'app-root',
@@ -36,35 +37,121 @@ export class AppComponent implements OnInit {
 
   allFilters: any[] = [];
 
+  isScenarioPresent: boolean;
+  zipPresent: boolean;
+
   // Constructor
   constructor(private dataService: DataJsonService) {}
 
   // ngOnInit
   ngOnInit() {
-
-    this.dataService.getDataFromJSON('assets/info.json').subscribe(data => {
-      this.teachers = data.teachers;
-      this.selectedTeacher = this.teachers[0]
-      this.classes = data.classes;
-      this.selectedClass = this.classes[0]
+    // Carica info.json e scenario_filters.json in parallelo
+    forkJoin([
+      this.dataService.getDataFromJSON('assets/info.json'),
+      this.dataService.getDataFromJSON('assets/scenario_filters.json')
+    ]).subscribe(([infoData, filterData]) => {
+      // Valorizza le variabili
+      this.teachers = infoData.teachers;
+      this.selectedTeacher = this.teachers[0];
+      this.classes = infoData.classes;
+      this.selectedClass = this.classes[0];
+      this.allFilters = filterData;
+  
+      // Esegui il resto delle operazioni solo dopo aver valorizzato i dati
       this.changeToggle();
     });
-
-    this.dataService.getDataFromJSON('assets/scenario_filters.json').subscribe(data => {
-      this.allFilters = data;
-    });
-
+  }
+  
+  // Methods
+  handleFilterChange(event: any) {
+    // Aggiorna il filtro e chiama loadTimetableData
+    this.updateFilterValue(event.abbreviation, event.value);
     this.loadTimetableData();
   }
-
-  // Methods
-  loadTimetableData() {
-    const folderName = Array.from(this.slots).map(([key, value]) => `${key}_${value}`).join('_');
-    const url = `assets/${folderName}/result.json`;
-
-    this.dataService.getDataFromJSON(url).subscribe(data => {
-      this.timetableData = data;
+  
+  updateFilterValue(abbreviation: string, value: any) {
+    this.allFilters.forEach(accordion => {
+      if (accordion.accordion) {
+        accordion.accordion.filters.forEach(filter => {
+          if (filter.abbreviation === abbreviation) {
+            filter.value = value;
+          }
+        });
+      }
     });
+  }  
+
+  loadTimetableData() {
+
+    let realFilters = this.allFilters
+      .flatMap(filterGroup => filterGroup.accordion?.filters || []);
+
+    let filterWithValue = this.allFilters
+      .flatMap(filterGroup => filterGroup.accordion?.filters || [])
+      .filter(filter => filter.value!=null || filter.value!=undefined);
+
+    if(filterWithValue.length!==realFilters.length){
+      console.error("Non sono valorizzati tutti i filtri");
+      return;
+    }
+
+    let filteredFilters = this.allFilters
+      .flatMap(filterGroup => filterGroup.accordion?.filters || [])
+      .filter(filter => filter.index);
+
+    let fileName = filteredFilters
+      .map(filter => `${filter.abbreviation}_${filter.value}`)
+      .join('_');
+
+    let folderName = this.allFilters
+      .flatMap(filterGroup => filterGroup.accordion?.filters || [])
+      .map(filter => `${filter.abbreviation}_${filter.value}`)
+      .join('_');
+
+    // Aggiungi l'estensione del file zip
+    fileName += '.zip';
+
+    // Costruisci il percorso completo del file zip
+    const filePath = `assets/${fileName}`;
+
+    console.log(filePath);
+
+    // Carica il file zip e leggi il file result.json
+    this.dataService.getDataFromZip(filePath).subscribe(zip => {
+      
+      let fileFound = false;
+      Object.keys(zip.files).forEach(relativePath => {
+        const file = zip.files[relativePath];
+        if (relativePath === `${folderName}/result.json`) {
+          fileFound = true;
+          file.async("string").then(content => {
+            this.zipPresent = true;
+            if(content.trim()=='{}'){
+              //Scenario non possibile
+              console.error("File result.json vuoto");
+              this.isScenarioPresent = false;
+              return;
+            }
+            this.timetableData = JSON.parse(content);
+            this.isScenarioPresent = true;
+          }).catch(error => {
+            console.error("Errore durante la lettura del file result.json", error);
+          });
+        }
+      });
+  
+      if (!fileFound) {
+        //Non esiste il file result.json all'interno della cartella oppure non esiste la cartella
+        console.error(`Cartella ${folderName} o file result.json non trovati nel file zip`);
+        this.zipPresent = false;
+      }
+
+    }, error => {
+      //Non esiste il file zip
+      console.error("Errore durante il caricamento del file zip", error);
+      this.zipPresent = false;
+    });
+
   }
 
   toggleMenu() {
@@ -121,11 +208,6 @@ export class AppComponent implements OnInit {
     else{
       this.searchText=this.teachers[0]
     }
-  }
-
-  handleFilterChange(event: { abbreviation: string, value: any }) {
-    console.log('Filter changed:', event.abbreviation, event.value);
-    
   }
 
 }

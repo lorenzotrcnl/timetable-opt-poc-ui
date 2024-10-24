@@ -39,7 +39,7 @@
 
   <div class="visualization" [class.expanded]="isMenuClosed">
     
-    <div class="timetable-container">
+    <div *ngIf="isScenarioPresent && zipPresent" class="timetable-container">
       <table class="timetable">
         <thead>
           <tr>
@@ -66,6 +66,16 @@
           </tr>
         </tbody>
       </table>
+    </div>
+
+    <div *ngIf="!isScenarioPresent && zipPresent" class="warning-scenario">
+      <i class="fas fa-exclamation-triangle warning-icon"></i>
+      <p>Scenario non possibile</p>
+    </div>
+
+    <div *ngIf="!zipPresent" class="error-scenario">
+      <i class="fas fa-times-circle error-icon"></i>
+      <p>Errore</p>
     </div>
 
   </div>
