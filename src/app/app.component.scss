@@ -1,5 +1,4 @@
-
-.entire-screen{
+.entire-screen {
   height: 100vh;
   width: 100%;
   display: flex;
@@ -10,20 +9,20 @@
   width: 25%;
   height: 100%;
   background-color: #3B3B3B;
-  border-top-right-radius: 20px; /* Angolo destro superiore arrotondato */
-  border-bottom-right-radius: 20px; /* Angolo destro inferiore arrotondato */
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
   transition: transform 0.5s ease;
-  overflow: hidden;
+  overflow-y: auto;
   position: relative;
-  transform: translateX(0); /* Assicura che il menu sia visibile per default */
+  transform: translateX(0);
 }
 
 .lateral-menu.closed {
-  transform: translateX(-100%); /* Nasconde il menu completamente */
+  transform: translateX(-100%);
 }
 
 .toggle-button {
-  position: fixed; /* Fissa la posizione della freccia */
+  position: fixed;
   top: 50%;
   left: 25%;
   transform: translate(-30%, -50%);
@@ -38,14 +37,14 @@
 }
 
 .lateral-menu.closed ~ .toggle-button {
-  left: 0; /* Sposta la freccia verso sinistra quando il menu è chiuso */
+  left: 0;
 }
 
-.selectClass{
+.selectClass {
   color: black;
 }
 
-.switch-view{
+.switch-view {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -53,17 +52,17 @@
   padding-bottom: 5%;
 }
 
-.text-teachers{
+.text-teachers {
   margin-right: 2%;
   color: white;
 }
 
 .text-classes {
-  margin-left: 2%; 
+  margin-left: 2%;
   color: white;
 }
 
-.divShowClassesDropdown{
+.divShowClassesDropdown {
   padding-right: 2%;
   padding-left: 2%;
   padding-top: 15%;
@@ -74,12 +73,12 @@
   display: flex;
   align-items: center;
   position: relative;
-  border-bottom: 1px solid white; /* Bordo sotto bianco */
+  border-bottom: 1px solid white;
 }
 
 .icon {
   color: white;
-  margin-right: 8px; /* Spazio tra l'icona e l'input */
+  margin-right: 8px;
 }
 
 .search-input {
@@ -87,32 +86,55 @@
   border: none;
   background: transparent;
   color: white;
-  padding: 8px 0; /* Spazio interno per l'input */
+  padding: 8px 0;
   outline: none;
 }
 
 .visualization {
-  width: 75%; /* Larghezza normale quando il menu è aperto */
+  display: flex;
+  flex: 1;
+  flex-direction: column;
   transition: width 0.5s ease;
 }
 
 .visualization.expanded {
-  width: 100vh; /* Occupa l'intera larghezza quando il menu è chiuso */
+  transform: translateX(-15%);
+  width: -webkit-fit-content;
+}
+
+.timetable-container {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  overflow-y: hidden;
+}
+
+.timetable {
+  width: 100%; /* Fissa la larghezza della tabella */
+  table-layout: fixed; /* Fissa la larghezza delle celle */
+}
+
+.timetable td, .timetable th {
+  border: 0.5px dashed #ddd;
+  padding: 8px;
+  text-align: center;
+  height: 10vh;
 }
 
 .results-list {
   list-style: none;
   padding: 0;
   margin: 0;
-  max-height: 50vh; /* Altezza massima della lista come 50% della finestra */
-  overflow-y: auto; /* Permette lo scrolling verticale */
+  max-height: 50vh;
+  overflow-y: auto;
   border: 1px solid #ddd;
   border-radius: 15px;
-  z-index: 1000; /* Assicura che la lista sia sopra gli altri elementi */
+  z-index: 1000;
   background-color: #3B3B3B;
-  position: absolute; /* Posiziona assolutamente la lista */
-  width: 95%; /* Adatta la larghezza della lista a quella dell'input */
-  top: 100%; /* Posiziona la lista subito sotto l'input */
+  position: absolute;
+  width: 95%;
+  top: 100%;
 }
 
 .result-item {
@@ -122,43 +144,45 @@
 }
 
 .result-item:hover {
-  background-color: #f0f0f0;
+  background-color: #909090;
 }
 
 .color-black {
   color: black;
 }
 
-.timetable-container {
+.warning-scenario {
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
+  flex-direction: column; /* Dispone l'icona sopra il testo */
+  padding: 10px;
+  background-color: #fff3cd;
+  border: 1px solid #ffeeba;
+  border-radius: 20px;
+  color: #856404;
   height: 100vh;
-  padding-left: 5%;
-  padding-right: 5%;
 }
 
-.timetable td {
-  border-left: 0.5px dashed #ddd;
-  border-right: 0.5px dashed #ddd;
-  border-bottom: 0.5px dashed #ddd;
-  padding: 8px;
-  text-align: center;
-  height: 10vh;
+.warning-icon {
+  font-size: 50px; /* Dimensione dell'icona */
+  margin-bottom: 10px; /* Spazio tra l'icona e il testo */
 }
 
-.timetable th {
-  border-left: 0.5px dashed #ddd;
-  border-right: 0.5px dashed #ddd;
-  padding: 8px;
-  text-align: center;
-  height: 10vh;
+.error-scenario {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column; /* Dispone l'icona sopra il testo */
+  padding: 10px;
+  background-color: #ff5160;
+  border: 1px solid #ff3e4e;
+  border-radius: px;
+  color: #721c24;
+  height: 100vh;
 }
 
-.timetable .slot-column{
-  border-left: none;
-}
-
-.timetable .slot-cell{
-  border-left: none;
+.error-icon {
+  font-size: 50px; /* Dimensione dell'icona */
+  margin-bottom: 10px; /* Spazio tra l'icona e il testo */
 }

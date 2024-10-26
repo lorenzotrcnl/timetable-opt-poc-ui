@@ -1,37 +1,64 @@
 .button-group {
-  padding: 10px 20px;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
   margin: 2%;
+  align-items: flex-end; /* Assicura che tutti i bottoni siano allineati in basso */
+}
+
+.button {
+  width: 50px; /* Lunghezza fissa dei bottoni */
+  height: 15px; /* Altezza di default */
   border: none;
   cursor: pointer;
+  margin: 0 5px; /* Spazio uniforme tra i bottoni */
+  transition: all 0.3s ease;
 }
 
-.buttonGreen{
-  background-color: rgb(110, 255, 130);
-  margin: 2%;
-}
-  
-.selectedGreen {
-  border: 2px solid rgb(27, 255, 57);
+.buttonGreen {
+  background-color: rgb(57, 255, 83);
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
 }
 
-.buttonYellow{
-  background-color: rgb(255, 253, 120);
-  margin: 2%;
+.buttonYellow {
+  background-color: rgb(254, 251, 71);
 }
 
-.selectedYellow {
-  border: 2px solid rgb(255, 251, 23);
-}
-
-.buttonRed{
+.buttonRed {
   background-color: rgb(255, 69, 69);
-  margin: 2%;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
 }
 
-.selectedRed {
-  border: 2px solid rgb(255, 0, 0);
+.selected {
+  height: 25px; /* Altezza maggiore per il bottone selezionato */
 }
 
 .transparent {
   opacity: 0.3;
+}
+
+.triangle {
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 10px solid rgb(255, 255, 255); /* Colore del triangolino */
+  transition: all 0.3s ease;
+}
+
+.triangleLow {
+  left: calc(30px - 10px);
+}
+
+.triangleMid {
+  left: calc(90px - 10px);
+}
+
+.triangleHigh {
+  left: calc(150px - 10px);
 }
