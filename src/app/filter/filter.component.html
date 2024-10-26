@@ -12,7 +12,7 @@
                     <label>{{ filter.label }}</label>
                     <div class="counter-input-container">
                         <button type="button" (click)="decreaseValue(filter)">-</button>
-                        <input type="number" [min]="filter.min" [max]="filter.max" [(ngModel)]="filter.value" (change)="updateFilterValue(filter.abbreviation, filter.value)" />
+                        <input type="number" [min]="filter.min" [max]="filter.max" [(ngModel)]="filter.value" (change)="updateFilterValue(filter.abbreviation, filter.value)" disabled/>
                         <button type="button" (click)="increaseValue(filter)">+</button>
                     </div>
                 </div>

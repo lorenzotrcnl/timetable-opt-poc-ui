@@ -43,6 +43,10 @@
       <table class="timetable">
         <thead>
           <tr>
+            <th class="table-header" *ngIf="!showClassesDropdown" [colSpan]="days.length+1" style="height: 5%;">{{selectedTeacher}}</th>
+            <th class="table-header" *ngIf="showClassesDropdown" [colSpan]="days.length+1" style="height: 5%;">{{selectedClass}}</th>
+          </tr>
+          <tr>
             <th class="slot-column"></th>
             <th *ngFor="let day of days">{{ day }}</th>
           </tr>
