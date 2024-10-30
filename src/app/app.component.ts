@@ -210,4 +210,34 @@ export class AppComponent implements OnInit {
     }
   }
 
+  previousItem() {
+    if (this.showClassesDropdown) {
+      const currentIndex = this.classes.indexOf(this.selectedClass);
+      const previousIndex = (currentIndex - 1 + this.classes.length) % this.classes.length;
+      this.selectedClass = this.classes[previousIndex];
+      this.loadTimetableData();
+    } else {
+      const currentIndex = this.teachers.indexOf(this.selectedTeacher);
+      const previousIndex = (currentIndex - 1 + this.teachers.length) % this.teachers.length;
+      this.selectedTeacher = this.teachers[previousIndex];
+      this.loadTimetableData();
+    }
+  }
+  
+  nextItem() {
+    if (this.showClassesDropdown) {
+      const currentIndex = this.classes.indexOf(this.selectedClass);
+      const nextIndex = (currentIndex + 1) % this.classes.length;
+      this.selectedClass = this.classes[nextIndex];
+      this.searchText = this.selectedClass;
+      this.loadTimetableData();
+    } else {
+      const currentIndex = this.teachers.indexOf(this.selectedTeacher);
+      const nextIndex = (currentIndex + 1) % this.teachers.length;
+      this.selectedTeacher = this.teachers[nextIndex];
+      this.searchText = this.selectedTeacher;
+      this.loadTimetableData();
+    }
+  }  
+
 }

@@ -42,9 +42,12 @@
     <div *ngIf="isScenarioPresent && zipPresent" class="timetable-container">
       <table class="timetable">
         <thead>
-          <tr>
-            <th class="table-header" *ngIf="!showClassesDropdown" [colSpan]="days.length+1" style="height: 5%;">{{selectedTeacher}}</th>
-            <th class="table-header" *ngIf="showClassesDropdown" [colSpan]="days.length+1" style="height: 5%;">{{selectedClass}}</th>
+          <tr class="table-header">
+            <th class="arrow-button left-arrow" (click)="previousItem()"><i class="fas fa-arrow-left"></i></th>
+            <th class="table-header-text" [colSpan]="days.length-1" style="height: 5%;">
+              {{showClassesDropdown ? selectedClass : selectedTeacher}}
+            </th>
+            <th class="arrow-button right-arrow" (click)="nextItem()"><i class="fas fa-arrow-right"></i></th>
           </tr>
           <tr>
             <th class="slot-column"></th>
